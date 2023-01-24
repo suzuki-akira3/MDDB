@@ -1,2 +1,10 @@
 # A material dictionary database to extract information on per-manent magnets from scientific articles
----
+## Dataset
+- Table 2. Construction of the initial KB. We selected the categories and subcategories. The base words are the suffix or prefix words of technical terms linked to subcategories used as annotation labels.
+- Table3. Extracted phrases through the frequency-based rule and regular expression search. Un-necessary phrases were filtered or manually eliminated. The list is arranged in order of frequency
+- Table 5. Examples of structured phrases. The relations column indicates a connection between the ith and jth labels of a phrase. Note that i and j start from zero.
+- Table 6. Frequent label patterns. Phrases that include base phrase relations were selected, and their base phrases were replaced with labels (e.g <QNT>), following which they were counted. The list is arranged in order of frequency.
+- Table 7. Manually created label patterns. To extract property data, complex patterns, including multiple material names, property names, and values were also considered. The relations column indicates a connection between the ith and jth labels of a phrase. Note that i and j start from zero.
+- Table8. Label-related base phrases extracted during the phrase structure construction process.
+- Table 9. Phrases extracted through the label pattern-matching method. Each label was replaced with all combinations of associated base words or phrases to check whether they were present in the texts. The relations column indicates the connection between the ith and jth labels of a phrase. Note that i and j start from zero.
+- Table 10. Property data records from the magnet domain using the MDDB. Property data were manually extracted using modified annotations after performing automatic annotation.
