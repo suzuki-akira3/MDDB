@@ -1,0 +1,53 @@
+﻿Pattern,Relations,Frequency,Examples
+<QNT>_of_<Value>,"[(0, 1)]",26,"['B_of_0_kG', 'B_of_0_T', 'coercivity_of_0_kA_/_m', 'coercivity_of_0_kOe', 'coercivity_of_0_T', 'coercivity_of_about_0_T', 'coercivity_value_of_0_kA_/_m', 'curie_temperature_of_about_0_°C', 'energy_product_of_0_MGOe', 'energy_product_of_about_0_MGOe']"
+<QNT>_=_<Value>,"[(0, 1)]",20,"['0_π_M_=_0_kG', '0_πM_=_0_kG', '4πM_=_0_kG', 'B_=_0_0_kG', 'B_=_0_kG', 'B_=_0_T', 'H_=_0_kA_/_m', 'H_=_0_kA_m_-_1', 'H_=_0_kOe', 'H_=_0_MA_/_m']"
+<QNT>_of_<QNT>,"[(0, 1)]",11,"['maximum_energy_product_of_(_BH_)', 'temperature_coefficient_of_Br', 'temperature_coefficient_of_coercivity', 'temperature_coefficient_of_remanence', 'temperature_coefficient_of_α', 'value_of_(_B_H_)', 'value_of_coercivity', 'value_of_energy_product', 'value_of_H', 'value_of_hci']"
+<QNT>_of_<Class>,"[(1, 0)]",8,"['coercivity_of_hot_deformed_magnet', 'coercivity_of_magnet', 'coercivity_of_SFAO', 'coercivity_of_sintered_magnet', 'energy_density_of_magnet', 'H_of_ferrite_magnet', 'magnetic_moment_of_system', 'remanence_of_magnet']"
+<Value>_at_<Condition>,"[(0, 1)]",6,"['0_kOe_at_0_°C', '0_kOe_at_0_K', '0_MGOe_at_0_K', '0_MGOe_at_room_temperature', '0_T_at_0_°C', '0_T_at_room_temperature']"
+<Treatment>_at_<Treatment>,"[(0, 1)]",5,"['annealing_at_0_°C', 'annealing_treatment_at_0_°C', 'heat_treated_at_0_°C', 'heated_at_0_K', 'heated_at_0_K_/_s']"
+<QNT>_of_<Element>,"[(1, 0)]",4,"['coercivity_of_Cu', 'diffusion_coefficient_of_Dy', 'energy_product_of_rare_earth', 'maximum_energy_product_of_rare_earth']"
+<QNT>_of_<QNT>,"[(1, 0)]",4,"['maximum_energy_product_of_(_BH_)', 'temperature_coefficient_of_Br', 'temperature_coefficient_of_coercivity', 'temperature_coefficient_of_remanence', 'temperature_coefficient_of_α', 'value_of_(_B_H_)', 'value_of_coercivity', 'value_of_energy_product', 'value_of_H', 'value_of_hci']"
+<Fabrication>_at_<Fabrication>,"[(0, 1)]",3,"['melt_spinning_at_wheel_speed', 'produced_at_0_K', 'sintered_at_0_°C']"
+<Value>_at_<Condition>_=_<Condition>,"[(0, 1), (1, 2)]",2,"['0_kA_/_m_at_T_=_0_K', '0_kOe_at_T_=_0_K']"
+<QNT>_=_<Value>_at_<Condition>,"[(0, 1), (1, 2)]",2,"['anisotropy_field_H_=_0_kOe_at_0_K', 'anisotropy_field_ha_=_0_kOe_at_0_K']"
+<QNT>_be_<Value>,"[(0, 1)]",2,"['coercivity_be_0_kA_/_m', 'μ_H_be_0_T']"
+<QNT>_<_<Value>,"[(0, 1)]",2,"['H_<_0_A_/_m', 'H_<_0_kOe']"
+<Fabrication>_by_<Fabrication>,"[(0, 1)]",2,"['produced_by_melt_spinning', 'produced_by_SPS']"
+<QNT>_(_<QNT>_),"[(0, 1)]",2,"['remanence_(_B_)', 'remanence_(_α_)']"
+<QNT>_~_<Value>,"[(0, 1)]",2,"['β_~_0_%_/_°C', 'μ_H_~_0_T']"
+<Value>_for_<Element>,"[(1, 0)]",1,['0_MGOe_for_Ga']
+<Value>_for_<Class>,"[(1, 0)]",1,['0_MGOe_for_steel']
+<Class>_be_<Value>,"[(0, 1)]",1,['alloy_be_0_kA_/_m']
+<Treatment>_to_<Treatment>,"[(0, 1)]",1,['annealing_temperature_to_0_°C']
+<QNT>_for_<Shape>,"[(0, 1)]",1,['Br_for_two_different_sample']
+<QNT>_to_<Value>,"[(0, 1)]",1,['coercivity_to_0_T']
+<QNT>_(_<Value>_),"[(0, 1)]",1,['curie_temperature_(_T_)']
+<QNT>_(_<Value>_)_of_single_<Class>,"[(2, 1), (0, 1)]",1,['curie_temperature_(_T_)_of_single_magnet']
+<Treatment>_and_<Treatment>,"[(0, 1)]",1,['diffusion_temperature_and_time']
+<Element>_of_<Element>,"[(0, 1)]",1,['Dy_content_of_0_wt_%']
+<Shape>_(_<Shape>_),"[(0, 1)]",1,['grain_boundary_(_GB_)']
+<Treatment>_(_<Treatment>_),"[(0, 1)]",1,['grain_boundary_diffusion_process_(_GBDP_)']
+<Fabrication>_for_<Fabrication>,"[(0, 1)]",1,['HEBM_for_0_h']
+<QNT>_for_<Class>,"[(1, 0)]",1,['J_for_La_Fe_B']
+<QNT>_be_<QNT>,"[(0, 1)]",1,['J_max_be_saturation_remanence']
+<QNT>_for_<Element>,"[(1, 0)]",1,['K_for_Si']
+<Condition>_of_<Condition>,"[(0, 1)]",1,['magnetic_field_of_0_T']
+<QNT>_at_<Condition>,"[(0, 1)]",1,['magnetization_at_0_kOe']
+<QNT>_in_<Class>,"[(1, 0)]",1,['magnetization_in_nanocomposite']
+<Fabrication>_at_<Fabrication>,"[(1, 0)]",1,['melt_spun_at_0_m_/_s']
+<Fabrication>_or_<Fabrication>,"[(0, 1)]",1,['milling_or_melt_spinning_method']
+<Class>_with_<QNT>_of_<Value>,"[(0, 1), (1, 2)]",1,['Pr_Co_B_with_coercivity_of_0_T']
+<Fabrication>_via_standard_<Fabrication>,"[(0, 1)]",1,['produced_via_standard_HDDR_process']
+<Shape>_=_<Shape>,"[(0, 1)]",1,['R_=_0_nm']
+<Element>_(_<Element>_),"[(0, 1)]",1,['rare_earth_(_RE_)']
+<QNT>_of_<Shape>,"[(1, 0)]",1,['remanence_of_film']
+<QNT>_of_<QNT>_=_<Value>,"[(0, 1), (1, 2)]",1,['remanence_of_J_=_0_T']
+<Shape>_<Treatment>_at_<Treatment>,"[(0, 1), (1, 2)]",1,['sample_annealed_at_0_°C']
+<Shape>_<Treatment>_by_<Fabrication>,"[(0, 1), (1, 2)]",1,['sample_annealed_by_conventional_method']
+<Fabrication>_with_<Condition>,"[(0, 1)]",1,['sample_cast_with_magnetic_field']
+<Fabrication>_<Condition>,"[(0, 1)]",1,['sample_cast_without_magnetic_field']
+<QNT>_of_<QNT>_(_<QNT>_),"[(1, 0)]",1,['temperature_coefficient_of_remanence_(_α_)']
+<QNT>_of_<QNT>_and_<QNT>,"[(1, 0), (2, 0)]",1,['temperature_coefficient_of_remanence_and_coercivity']
+<Fabrication>_of_<Fabrication>,"[(1, 0)]",1,['wheel_speed_of_0_m_/_s']
+<QNT>_~_<Value>_to_<Value>,"[(0, 1)]",1,['β_~_0_to_0_%_/_°C']
+<QNT>_(_<Condition>_)_be_<QNT>,"[(2, 1)]",1,['μ_H_(_T_)_be_coercivity']

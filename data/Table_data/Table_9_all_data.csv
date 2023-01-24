@@ -1,0 +1,1137 @@
+﻿Pattern,Phrase,Base_phrase,Relations,Frequency
+"<QNT>_of_<Value>_,_<Value>_,_and_<Value>","(_B_H_)_of_0_kA_/_m_,_0_T_,_and_0_kJ_/_m_3","((_B_H_), 0_kA_/_m, 0_T, 0_kJ_/_m_3)","(0, 1), (0, 2), (0, 3)",1
+"<QNT>_of_<Value>_,_<Value>_,_and_<Value>","(_BH_)_of_0_kA_/_m_,_0_T_,_and_0_kJ_/_m_3","((_BH_), 0_kA_/_m, 0_T, 0_kJ_/_m_3)","(0, 1), (0, 2), (0, 3)",1
+<QNT>_in_<Shape>,"anisotropy_field_in_(_Nd_,_Pr_)_Fe_B_region","(anisotropy_field, (_Nd_,_Pr_)_Fe_B_region)","(1, 0)",1
+<QNT>_of_<Class>,"anisotropy_field_of_(_Nd_,_Dy_)_Fe_B","(anisotropy_field, (_Nd_,_Dy_)_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,"anisotropy_field_of_(_Nd_,_Pr_)_Fe_B_phase","(anisotropy_field, (_Nd_,_Pr_)_Fe_B_phase)","(1, 0)",3
+"<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_and_<QNT>_=_<Value>_in_<Shape>","B_=_0_kG_,_H_=_0_kOe_,_and_energy_product_(_BH_)_=_0_MGOe_in_ribbon","(B, 0_kG, H, 0_kOe, energy_product_(_BH_), 0_MGOe, ribbon)","(0, 1), (2, 3), (4, 5), (6, 1), (6, 2), (6, 3)",1
+<QNT>_increases_from_<Value>_in_<Class>_to_<Value>_in_<Class>,"coercivity_increases_from_0_Oe_in_SrFe_O_to_0_,_0_Oe_in_SrAl_Fe_O","(coercivity, 0_Oe, SrFe_O, 0_,_0_Oe, SrAl_Fe_O)","(0, 1), (1, 2), (0, 3), (3, 4)",1
+"<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_and_<QNT>_=_<Value>_in_<Element>","J_=_0_T_,_H_=_0_kA_/_m_,_and_(_BH_)_=_0_kJ_/_m_3_in_Pr","(J, 0_T, H, 0_kA_/_m, (_BH_), 0_kJ_/_m_3, Pr)","(0, 1), (2, 3), (4, 5), (6, 1), (6, 2), (6, 3)",1
+"<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_and_<QNT>_=_<Value>_in_<Class>","J_=_0_T_,_H_=_0_kA_/_m_,_and_(_BH_)_=_0_kJ_/_m_3_in_Pr_Fe_Ti_B_alloy","(J, 0_T, H, 0_kA_/_m, (_BH_), 0_kJ_/_m_3, Pr_Fe_Ti_B_alloy)","(0, 1), (2, 3), (4, 5), (6, 1), (6, 2), (6, 3)",1
+<QNT>_of_<Class>,"maximum_energy_product_of_(_Nd_,_Dy_)_Fe_B","(maximum_energy_product, (_Nd_,_Dy_)_Fe_B)","(1, 0)",1
+<QNT>_of_<Value>,"maximum_value_of_0_,_0_Oe","(maximum_value, 0_,_0_Oe)","(0, 1)",1
+"<Class>_with_<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_and_<QNT>_=_<Value>","melt_spun_(_Nd_Pr_)_(_Fe_Co_)_Nb_B_alloy_with_H_=_0_kA_/_m_,_J_=_0_T_,_and_(_BH_)_=_0_kJ_/_m_3","(melt_spun_(_Nd_Pr_)_(_Fe_Co_)_Nb_B_alloy, H, 0_kA_/_m, J, 0_T, (_BH_), 0_kJ_/_m_3)","(0, 1), (1, 2), (0, 3), (3, 4), (0, 5), (5, 6)",1
+"<Class>_with_<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_and_<QNT>_=_<Value>","Nd_Fe_B_magnet_with_H_=_0_kA_m_-_1_,_B_=_0_T_,_and_(_BH_)_=_0_kJ_m_-_3","(Nd_Fe_B_magnet, H, 0_kA_m_-_1, B, 0_T, (_BH_), 0_kJ_m_-_3)","(0, 1), (1, 2), (0, 3), (3, 4), (0, 5), (5, 6)",1
+"<QNT>_,_<QNT>_,_and_<QNT>_be_<Value>_,_<Value>_,_and_<Value>","remanence_,_coercivity_,_and_energy_product_be_0_T_,_0_T_,_and_0_MGOe","(remanence, coercivity, energy_product, 0_T, 0_T, 0_MGOe)","(0, 3), (1, 4), (2, 5)",1
+"<QNT>_of_<Value>_,_<Value>_,_and_<Value>","remanent_magnetization_of_0_,_0_,_and_0_kA_/_m","(remanent_magnetization, 0, 0, 0_kA_/_m)","(0, 1), (0, 2), (0, 3)",1
+"<Shape>_with_<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_and_<QNT>_=_<Value>","ribbon_with_μ_M_=_0_0_T_,_μ_H_=_0_0_T_,_and_(_BH_)_=_0_0_MGOe","(ribbon, μ_M, 0_0_T, μ_H, 0_0_T, (_BH_), 0_0_MGOe)","(0, 1), (1, 2), (0, 3), (3, 4), (0, 5), (5, 6)",1
+"<Class>_with_<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_and_<QNT>_=_<Value>","SmCo_magnet_with_μ_M_=_0_T_,_μ_H_=_0_T_,_and_(_BH_)_=_0_MGOe","(SmCo_magnet, μ_M, 0_T, μ_H, 0_T, (_BH_), 0_MGOe)","(0, 1), (1, 2), (0, 3), (3, 4), (0, 5), (5, 6)",1
+<QNT>_in_<Shape>,"temperature_in_(_Nd_,_Dy_)_Fe_B","(temperature, (_Nd_,_Dy_)_Fe_B)","(1, 0)",1
+"<QNT>_for_<Class>_be_<QNT>_=_<Value>_,_<QNT>_=_<Value>_,_<QNT>_=_<Value>","value_for_pure_Ce_Fe_B_be_hci_=_0_kOe_,_(_BH_)_max_=_0_MGOe_,_B_=_0_kG","(value, pure_Ce_Fe_B, hci, 0_kOe, (_BH_)_max, 0_MGOe, B, 0_kG)","(1, 2), (2, 3), (1, 4), (4, 5), (1, 6), (6, 7)",1
+<QNT>_(_<Value>_),(_B_H_)_(_~_0_MG_Oe_),"((_B_H_), ~_0_MG_Oe)","(0, 1)",1
+<QNT>_~_<Value>,(_B_H_)_~_0_MG_Oe,"((_B_H_), 0_MG_Oe)","(0, 1)",1
+<QNT>_=_<Value>,(_B_H_)_=_0_G,"((_B_H_), 0_G)","(0, 1)",1
+<QNT>_=_<Value>,(_B_H_)_=_0_kJ_/_m_3,"((_B_H_), 0_kJ_/_m_3)","(0, 1)",1
+<QNT>_at_<Condition>,(_B_H_)_at_T,"((_B_H_), T)","(0, 1)",1
+<QNT>_be_<Value>,(_B_H_)_be_0_T,"((_B_H_), 0_T)","(0, 1)",1
+<QNT>_for_<Class>,(_B_H_)_for_magnet,"((_B_H_), magnet)","(1, 0)",1
+<QNT>_for_<Class>,(_B_H_)_for_Pr_Fe_Ti_Co_B_C,"((_B_H_), Pr_Fe_Ti_Co_B_C)","(1, 0)",1
+<QNT>_for_<Shape>,(_B_H_)_for_Pr_Fe_Ti_Co_B_C_ribbon,"((_B_H_), Pr_Fe_Ti_Co_B_C_ribbon)","(1, 0)",1
+<QNT>_of_<Value>,(_B_H_)_of_0_0_MG_Oe,"((_B_H_), 0_0_MG_Oe)","(0, 1)",1
+<QNT>_of_<Value>,(_B_H_)_of_0_kA_/_m,"((_B_H_), 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Class>,(_B_H_)_of_magnet,"((_B_H_), magnet)","(1, 0)",1
+<QNT>_up_to_<Value>,(_B_H_)_up_to_~_0_MG_Oe,"((_B_H_), ~_0_MG_Oe)","(0, 1)",1
+<QNT>_(_<Value>_),(_BH_)_(_0_0_MGOe_),"((_BH_), 0_0_MGOe)","(0, 1)",1
+<QNT>_=_<Value>,(_BH_)_=_0_0_MGOe,"((_BH_), 0_0_MGOe)","(0, 1)",6
+<QNT>_=_<Value>_at_<Condition>,(_BH_)_=_0_kJ_/_m_3_at_0_K,"((_BH_), 0_kJ_/_m_3, 0_K)","(0, 1), (1, 2)",1
+<QNT>_=_<Value>,(_BH_)_=_0_MG_Oe,"((_BH_), 0_MG_Oe)","(0, 1)",2
+<QNT>_for_<Class>,(_BH_)_for_DQ_alloy,"((_BH_), DQ_alloy)","(1, 0)",1
+<QNT>_for_<Class>,(_BH_)_for_Fe_Co,"((_BH_), Fe_Co)","(1, 0)",1
+<QNT>_for_<Class>,(_BH_)_for_hot_deformed_magnet,"((_BH_), hot_deformed_magnet)","(1, 0)",1
+<QNT>_for_<Shape>,(_BH_)_for_thick_film,"((_BH_), thick_film)","(1, 0)",1
+<QNT>_in_<Class>,(_BH_)_in_quaternary_magnet,"((_BH_), quaternary_magnet)","(1, 0)",1
+<QNT>_in_<Class>,(_BH_)_in_Sm_Co_magnet,"((_BH_), Sm_Co_magnet)","(1, 0)",1
+<QNT>_~_<Value>,(_BH_)_max_~_0_MGOe,"((_BH_)_max, 0_MGOe)","(0, 1)",2
+<QNT>_=_<Value>,(_BH_)_max_=_~_0_MGOe,"((_BH_)_max, ~_0_MGOe)","(0, 1)",1
+<QNT>_=_<Value>_at_<Condition>,(_BH_)_max_=_~_0_MGOe_at_0_K,"((_BH_)_max, ~_0_MGOe, 0_K)","(0, 1), (1, 2)",1
+<QNT>_=_<Value>_at_<Condition>,(_BH_)_max_=_0_MGOe_at_0_K,"((_BH_)_max, 0_MGOe, 0_K)","(0, 1), (1, 2)",1
+<QNT>_be_<Value>,(_BH_)_max_be_0_kOe,"((_BH_)_max, 0_kOe)","(0, 1)",1
+<QNT>_between_<Value>_and_<Value>,(_BH_)_max_between_0_and_0_MGOe,"((_BH_)_max, 0, 0_MGOe)","(0, 1), (0, 2)",1
+<QNT>_for_<Class>,(_BH_)_max_for_(_Nd_Ce_)_Fe_B,"((_BH_)_max, (_Nd_Ce_)_Fe_B)","(1, 0)",1
+<QNT>_for_<Class>,(_BH_)_max_for_die_upset_magnet,"((_BH_)_max, die_upset_magnet)","(1, 0)",1
+<QNT>_for_<Element>,(_BH_)_max_for_x_=_0,"((_BH_)_max, x_=_0)","(1, 0)",1
+<QNT>_in_<Class>,(_BH_)_max_in_(_Nd_Ce_)_Fe_Co_B,"((_BH_)_max, (_Nd_Ce_)_Fe_Co_B)","(1, 0)",1
+<QNT>_in_<Element>,(_BH_)_max_in_Ce,"((_BH_)_max, Ce)","(1, 0)",1
+<QNT>_in_<Class>,(_BH_)_max_in_sintered_magnet,"((_BH_)_max, sintered_magnet)","(1, 0)",1
+<QNT>_of_<Value>,(_BH_)_of_~_0_kJ,"((_BH_), ~_0_kJ)","(0, 1)",1
+<QNT>_of_<Value>,(_BH_)_of_~_0_kJ_m_-_3,"((_BH_), ~_0_kJ_m_-_3)","(0, 1)",1
+<QNT>_of_<Value>,(_BH_)_of_0_kA_/_m,"((_BH_), 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Class>,(_BH_)_of_magnet,"((_BH_), magnet)","(1, 0)",2
+<QNT>_of_<Shape>,(_BH_)_of_sample,"((_BH_), sample)","(1, 0)",2
+<QNT>_of_<Class>,(_BH_)_of_waste_magnet,"((_BH_), waste_magnet)","(1, 0)",1
+<QNT>_of_<Value>,(_BH_)_value_of_0_kJ_/_m_3,"((_BH_)_value, 0_kJ_/_m_3)","(0, 1)",3
+<QNT>_of_<Value>,(_BH_)_value_of_0_MGOe,"((_BH_)_value, 0_MGOe)","(0, 1)",2
+<Class>_be_<Value>,(_Nd_Ce_)_Fe_B_be_0_kOe,"((_Nd_Ce_)_Fe_B, 0_kOe)","(0, 1)",1
+<Class>_be_<Value>,(_Nd_Ce_)_Fe_Co_B_+_0_%_ZrC_be_~_0_%_°C_-_1,"((_Nd_Ce_)_Fe_Co_B_+_0_%_ZrC, ~_0_%_°C_-_1)","(0, 1)",1
+<QNT>_of_<Value>,|_β_|_of_0_%_/_°C,"(|_β_|, 0_%_/_°C)","(0, 1)",1
+<QNT>_of_<Shape>,|_β_|_of_sample_diffusion_processed,"(|_β_|, sample_diffusion_processed)","(1, 0)",1
+<Value>_at_<Condition>,~_0_kA_m_-_1_at_room_temperature,"(~_0_kA_m_-_1, room_temperature)","(0, 1)",1
+<Value>_for_<Shape>,~_0_kJ_m_-_3_for_N_=_0_film,"(~_0_kJ_m_-_3, N_=_0_film)","(1, 0)",1
+<Value>_at_<Condition>,~_0_kOe_at_0_K,"(~_0_kOe, 0_K)","(0, 1)",4
+<Value>_at_<Condition>,~_0_MGOe_at_0_K,"(~_0_MGOe, 0_K)","(0, 1)",3
+<Value>_for_<Class>,~_0_MGOe_for_steel,"(~_0_MGOe, steel)","(1, 0)",1
+<Value>_at_<Condition>,~_0_T_at_0_K,"(~_0_T, 0_K)","(0, 1)",1
+<Value>_at_<Condition>,~_0_T_at_room_temperature,"(~_0_T, room_temperature)","(0, 1)",1
+<Value>_for_<Shape>,0_%_/_°C_for_diffusion_processed_sample,"(0_%_/_°C, diffusion_processed_sample)","(1, 0)",1
+<Value>_for_<Class>,0_%_/_°C_for_waste,"(0_%_/_°C, waste)","(1, 0)",1
+<Value>_for_<Class>,0_%_/_°C_for_waste_magnet,"(0_%_/_°C, waste_magnet)","(1, 0)",1
+<Value>_for_<Element>,0_%_/_K_for_x_=_0,"(0_%_/_K, x_=_0)","(1, 0)",2
+<Value>_for_<Element>,0_%_°C_-_1_for_x_=_0,"(0_%_°C_-_1, x_=_0)","(1, 0)",2
+<Value>_at_<Condition>,0_%_at_0_K,"(0_%, 0_K)","(0, 1)",2
+<Value>_for_<Shape>,0_%_for_soft_magnetic_phase,"(0_%, soft_magnetic_phase)","(1, 0)",2
+<Element>_of_<Element>,0_%_of_B,"(0_%, B)","(0, 1)",3
+<Element>_of_<Element>,0_%_of_Ce_substitution,"(0_%, Ce_substitution)","(0, 1)",1
+<Element>_of_<Element>,0_%_of_Nd,"(0_%, Nd)","(0, 1)",2
+<Element>_of_<Element>,0_%_of_α_Fe_grain,"(0_%, α_Fe_grain)","(0, 1)",1
+<Element>_of_<Element>,0_%_substitution_of_Dy,"(0_%_substitution, Dy)","(0, 1)",1
+<Value>_for_<Class>,0_°C_for_Nd_Co_B,"(0_°C, Nd_Co_B)","(1, 0)",1
+<Value>_for_<Class>,0_°C_for_Nd_Cu,"(0_°C, Nd_Cu)","(1, 0)",1
+<Value>_for_<Shape>,0_°C_for_this_sample,"(0_°C, this_sample)","(1, 0)",1
+<Value>_for_<Element>,0_°C_for_x_=_0,"(0_°C, x_=_0)","(1, 0)",2
+<Value>_at_<Condition>,0_0_kA_/_m_at_room_temperature,"(0_0_kA_/_m, room_temperature)","(0, 1)",2
+<Value>_for_<Element>,0_0_MG_Oe_for_Nd,"(0_0_MG_Oe, Nd)","(1, 0)",1
+<Value>_for_<Class>,0_0_MG_Oe_for_Nd_Fe_Ti_M_B,"(0_0_MG_Oe, Nd_Fe_Ti_M_B)","(1, 0)",1
+<Value>_for_<Element>,0_0_MGOe_for_x_=_0,"(0_0_MGOe, x_=_0)","(1, 0)",1
+<Value>_for_<Class>,0_0_T_for_Nd_Fe_Co_B,"(0_0_T, Nd_Fe_Co_B)","(1, 0)",1
+<Value>_for_<Shape>,0_0_T_for_Nd_Fe_Co_B_M_ribbon,"(0_0_T, Nd_Fe_Co_B_M_ribbon)","(1, 0)",1
+<Treatment>_and_<Treatment>,0_and_0_K_/_s,"(0, 0_K_/_s)","(0, 1)",1
+<Element>_of_<Element>,0_at_%_of_B,"(0_at_%, B)","(0, 1)",1
+<Element>_of_<Element>,0_at_._%_of_Nd,"(0_at_._%, Nd)","(0, 1)",2
+<Element>_of_<Element>,0_at_._%_of_V,"(0_at_._%, V)","(0, 1)",1
+<Value>_at_<Condition>,0_emu_/_g_at_room_temperature,"(0_emu_/_g, room_temperature)","(0, 1)",1
+<Value>_for_<Shape>,0_emu_/_g_for_sample,"(0_emu_/_g, sample)","(1, 0)",1
+<Value>_for_<Element>,0_for_Ti_substitution,"(0, Ti_substitution)","(1, 0)",1
+<Value>_for_<Element>,0_for_x_=_0,"(0, x_=_0)","(1, 0)",2
+<Treatment>_and_<Treatment>,0_K_/_s_and_0_K_/_s,"(0_K_/_s, 0_K_/_s)","(0, 1)",2
+<Value>_for_<Class>,0_K_for_(_Nd_Ce_)_Fe_B,"(0_K, (_Nd_Ce_)_Fe_B)","(1, 0)",1
+<Value>_for_<Element>,0_K_for_Nd,"(0_K, Nd)","(1, 0)",3
+<Value>_for_<Element>,0_K_for_Si,"(0_K, Si)","(1, 0)",1
+<Value>_for_<Class>,0_K_for_SmCo,"(0_K, SmCo)","(1, 0)",1
+<Value>_for_<Element>,0_K_for_x_=_0,"(0_K, x_=_0)","(1, 0)",1
+<Value>_at_<Condition>,0_kA_/_m_at_room_temperature,"(0_kA_/_m, room_temperature)","(0, 1)",1
+<Value>_for_<Shape>,0_kA_/_m_for_sample,"(0_kA_/_m, sample)","(1, 0)",1
+<Value>_for_<Element>,0_kA_/_m_for_sample_without_Hf,"(0_kA_/_m, sample_without_Hf)","(1, 0)",1
+<Value>_for_<Element>,0_kA_/_m_for_x_=_0,"(0_kA_/_m, x_=_0)","(1, 0)",2
+<Value>_for_<Element>,0_kA_/_m_for_y_=_0,"(0_kA_/_m, y_=_0)","(1, 0)",4
+<Value>_at_<Condition>,0_kA_m_-_1_at_0_°C,"(0_kA_m_-_1, 0_°C)","(0, 1)",1
+<Value>_for_<Shape>,0_kA_m_-_1_for_initial_sample,"(0_kA_m_-_1, initial_sample)","(1, 0)",1
+<Value>_for_<Shape>,0_kA_m_-_1_for_sample,"(0_kA_m_-_1, sample)","(1, 0)",1
+<Value>_for_<Class>,0_kG_for_(_Nd_Ce_)_Fe_Co_B_+_0_%_ZrC,"(0_kG, (_Nd_Ce_)_Fe_Co_B_+_0_%_ZrC)","(1, 0)",1
+<Value>_for_<Class>,0_kG_for_Ce_Fe_B,"(0_kG, Ce_Fe_B)","(1, 0)",1
+<Value>_for_<Class>,0_kG_for_magnet,"(0_kG, magnet)","(1, 0)",1
+<Value>_for_<Element>,0_kG_for_TM,"(0_kG, TM)","(1, 0)",1
+<Value>_for_<Element>,0_kG_for_x_=_0,"(0_kG, x_=_0)","(1, 0)",1
+<Value>_for_<Element>,0_kG_for_y_=_0,"(0_kG, y_=_0)","(1, 0)",2
+<Value>_at_<Condition>,0_kJ_/_m_3_at_0_K,"(0_kJ_/_m_3, 0_K)","(0, 1)",1
+<Value>_for_<Shape>,0_kJ_/_m_3_for_sample_diffusion_processed,"(0_kJ_/_m_3, sample_diffusion_processed)","(1, 0)",1
+<Value>_for_<Shape>,0_kJ_m_-_3_for_N_=_0,"(0_kJ_m_-_3, N_=_0)","(1, 0)",2
+<Value>_at_<Condition>,0_kOe_at_room_temperature,"(0_kOe, room_temperature)","(0, 1)",2
+<Value>_for_<Shape>,0_kOe_for_EPD_coated_sample,"(0_kOe, EPD_coated_sample)","(1, 0)",1
+<Value>_for_<Class>,0_kOe_for_hot_pressed,"(0_kOe, hot_pressed)","(1, 0)",1
+<Value>_for_<Class>,0_kOe_for_magnet,"(0_kOe, magnet)","(1, 0)",2
+<Value>_for_<Shape>,0_kOe_for_melt_spun_Ce_Fe_B_powder,"(0_kOe, melt_spun_Ce_Fe_B_powder)","(1, 0)",1
+<Value>_for_<Class>,0_kOe_for_Nd_Fe_B,"(0_kOe, Nd_Fe_B)","(1, 0)",1
+<Value>_for_<Class>,0_kOe_for_respective_alloy,"(0_kOe, respective_alloy)","(1, 0)",1
+<Value>_for_<Shape>,0_kOe_for_ribbon,"(0_kOe, ribbon)","(1, 0)",1
+<Value>_for_<Class>,0_kOe_for_sintered_(_Nd_Ce_),"(0_kOe, sintered_(_Nd_Ce_))","(1, 0)",1
+<Value>_for_<Element>,0_kOe_for_Sm,"(0_kOe, Sm)","(1, 0)",2
+<Value>_for_<Class>,0_kOe_for_Sm_(_Co_Fe_Cu_Zr_),"(0_kOe, Sm_(_Co_Fe_Cu_Zr_))","(1, 0)",2
+<Value>_for_<Shape>,0_kOe_for_un_doped_sample,"(0_kOe, un_doped_sample)","(1, 0)",1
+<Value>_for_<Element>,0_kOe_for_x_=_0,"(0_kOe, x_=_0)","(1, 0)",12
+<Value>_for_<Element>,0_kOe_for_y_=_0,"(0_kOe, y_=_0)","(1, 0)",2
+<Condition>_of_<Condition>,0_kOe_of_applied_magnetic_field,"(0_kOe, applied_magnetic_field)","(0, 1)",1
+<Value>_for_<Element>,0_MG_Oe_for_Nd,"(0_MG_Oe, Nd)","(1, 0)",1
+<Value>_for_<Class>,0_MG_Oe_for_Nd_Fe_Ti_B,"(0_MG_Oe, Nd_Fe_Ti_B)","(1, 0)",1
+<Value>_for_<Element>,0_MG_Oe_for_x_=_0,"(0_MG_Oe, x_=_0)","(1, 0)",1
+<Value>_at_<Condition>_=_<Condition>,0_MGOe_at_T_=_0_K,"(0_MGOe, T, 0_K)","(0, 1), (1, 2)",1
+<Value>_for_<Element>,0_MGOe_for_(_0_x_)_+_z_=_0,"(0_MGOe, (_0_x_)_+_z_=_0)","(1, 0)",2
+<Value>_for_<Element>,0_MGOe_for_0_wt_%_Dy,"(0_MGOe, 0_wt_%_Dy)","(1, 0)",1
+<Value>_for_<Shape>,0_MGOe_for_0_wt_%_Dy_containing_{_[_(_Nd_(_Y_Dy_)_]_Co_Fe_B_}_+_Ti_C_ribbon,"(0_MGOe, 0_wt_%_Dy_containing_{_[_(_Nd_(_Y_Dy_)_]_Co_Fe_B_}_+_Ti_C_ribbon)","(1, 0)",1
+<Value>_for_<Element>,0_MGOe_for_Cr,"(0_MGOe, Cr)","(1, 0)",1
+<Value>_for_<Shape>,0_MGOe_for_Ga_added_ribbon,"(0_MGOe, Ga_added_ribbon)","(1, 0)",1
+<Value>_for_<Class>,0_MGOe_for_magnet,"(0_MGOe, magnet)","(1, 0)",1
+<Value>_for_<Element>,0_MGOe_for_Mn,"(0_MGOe, Mn)","(1, 0)",2
+<Value>_for_<Class>,0_MGOe_for_MnBi_magnet,"(0_MGOe, MnBi_magnet)","(1, 0)",1
+<Value>_for_<Shape>,0_MGOe_for_ribbon,"(0_MGOe, ribbon)","(1, 0)",1
+<Value>_for_<Shape>,0_MGOe_for_sample,"(0_MGOe, sample)","(1, 0)",3
+<Value>_for_<Element>,0_MGOe_for_Sm,"(0_MGOe, Sm)","(1, 0)",1
+<Value>_for_<Class>,0_MGOe_for_SmCo,"(0_MGOe, SmCo)","(1, 0)",1
+<Value>_for_<Element>,0_MGOe_for_x_=_0,"(0_MGOe, x_=_0)","(1, 0)",5
+<Value>_for_<Element>,0_MGOe_for_y_=_0,"(0_MGOe, y_=_0)","(1, 0)",2
+<Fabrication>_at_<Fabrication>,0_MPa_at_0_°C,"(0_MPa, 0_°C)","(1, 0)",1
+<Value>_for_<Element>,0_Oe_for_x_=_0,"(0_Oe, x_=_0)","(1, 0)",2
+<Value>_at_<Condition>,0_T_at_0_K,"(0_T, 0_K)","(0, 1)",2
+<Value>_for_<Element>,0_T_for_Fe,"(0_T, Fe)","(1, 0)",1
+<Value>_for_<Class>,0_T_for_Fe_Co_alloy,"(0_T, Fe_Co_alloy)","(1, 0)",1
+<Value>_for_<Shape>,0_T_for_melt_spun_Pr_Fe_VB_C_ribbon,"(0_T, melt_spun_Pr_Fe_VB_C_ribbon)","(1, 0)",1
+<Value>_for_<Shape>,0_T_for_N_=_0,"(0_T, N_=_0)","(1, 0)",10
+<Value>_for_<Class>,0_T_for_Nd_Cu,"(0_T, Nd_Cu)","(1, 0)",1
+<Value>_for_<Class>,0_T_for_Nd_Cu_alloy,"(0_T, Nd_Cu_alloy)","(1, 0)",1
+<Value>_for_<Class>,0_T_for_Nd_Fe_B,"(0_T, Nd_Fe_B)","(1, 0)",2
+<Value>_for_<Shape>,0_T_for_Nd_Fe_B_ribbon,"(0_T, Nd_Fe_B_ribbon)","(1, 0)",1
+<Value>_for_<Class>,0_T_for_Pr_Cu,"(0_T, Pr_Cu)","(1, 0)",2
+<Value>_for_<Class>,0_T_for_Pr_Fe_B,"(0_T, Pr_Fe_B)","(1, 0)",3
+<Value>_for_<Shape>,0_T_for_Pr_Fe_B_Cu_ribbon,"(0_T, Pr_Fe_B_Cu_ribbon)","(1, 0)",1
+<Value>_for_<Class>,0_T_for_Pr_Fe_Co_B,"(0_T, Pr_Fe_Co_B)","(1, 0)",1
+<Value>_for_<Element>,0_T_for_Sm,"(0_T, Sm)","(1, 0)",2
+<Value>_for_<Class>,0_T_for_Sm_Co,"(0_T, Sm_Co)","(1, 0)",1
+<Value>_for_<Element>,0_T_for_Sm_Co_R,"(0_T, Sm_Co_R)","(1, 0)",1
+<Value>_for_<Class>,0_T_for_Sm_Fe_C,"(0_T, Sm_Fe_C)","(1, 0)",1
+<Value>_for_<Shape>,0_T_for_Sm_Fe_Cu_Ga_C_ribbon,"(0_T, Sm_Fe_Cu_Ga_C_ribbon)","(1, 0)",1
+<Value>_for_<Class>,0_T_for_SmCo,"(0_T, SmCo)","(1, 0)",1
+<Value>_for_<Shape>,0_T_for_Ta_free_film,"(0_T, Ta_free_film)","(1, 0)",1
+<Element>_(_<Element>_),0_wt_%_(_0_at_%_),"(0_wt_%, 0_at_%)","(0, 1)",1
+<Value>_at_<Condition>,0_μ_at_0_°C,"(0_μ, 0_°C)","(0, 1)",1
+<QNT>_=_<Value>,4π_M_=_0_kG,"(4π_M, 0_kG)","(0, 1)",6
+<Value>_for_<Shape>,about_0_%_for_N_=_0,"(about_0_%, N_=_0)","(1, 0)",2
+<Value>_for_<Element>,about_0_MGOe_for_Nd,"(about_0_MGOe, Nd)","(1, 0)",1
+<Value>_for_<Class>,about_0_MGOe_for_Nd_Fe_B_sintered_magnet,"(about_0_MGOe, Nd_Fe_B_sintered_magnet)","(1, 0)",1
+<Value>_at_<Condition>,about_0_T_at_0_°C,"(about_0_T, 0_°C)","(0, 1)",2
+<Value>_at_<Condition>,about_0_T_at_room_temperature,"(about_0_T, room_temperature)","(0, 1)",3
+<Element>_of_<Element>,addition_of_0_at_._%_V,"(addition, 0_at_._%_V)","(0, 1)",2
+<Element>_of_<Element>,addition_of_Cu,"(addition, Cu)","(0, 1)",2
+<Element>_of_<Element>,addition_of_heavy_rare_earth,"(addition, heavy_rare_earth)","(0, 1)",1
+<Element>_of_<Element>,addition_of_Nd,"(addition, Nd)","(0, 1)",3
+<Element>_of_<Element>,addition_of_Pr,"(addition, Pr)","(0, 1)",1
+<Element>_of_<Element>,addition_of_Si,"(addition, Si)","(0, 1)",1
+<Element>_of_<Element>,addition_of_Y,"(addition, Y)","(0, 1)",1
+<Element>_of_<Element>,addition_of_Zr,"(addition, Zr)","(0, 1)",1
+<Element>_of_<Element>,Al_content_of_x_=_0,"(Al_content, x_=_0)","(0, 1)",1
+<Class>_be_<Value>,alloy_be_0_%_°C_-_1,"(alloy, 0_%_°C_-_1)","(0, 1)",1
+<Class>_be_<Value>,alloy_be_0_T,"(alloy, 0_T)","(0, 1)",1
+<QNT>_of_<Value>,ambient_coercivity_of_~_0_T,"(ambient_coercivity, ~_0_T)","(0, 1)",1
+<QNT>_to_<Value>,ambient_coercivity_to_about_0_T,"(ambient_coercivity, about_0_T)","(0, 1)",1
+<Element>_of_<Element>,amount_of_B,"(amount, B)","(0, 1)",1
+<Element>_of_<Element>,amount_of_Ce,"(amount, Ce)","(0, 1)",3
+<Element>_of_<Element>,amount_of_Co,"(amount, Co)","(0, 1)",1
+<Element>_of_<Element>,amount_of_Cu,"(amount, Cu)","(0, 1)",1
+<Element>_of_<Element>,amount_of_Dy_(_x_=_0_),"(amount, Dy_(_x_=_0_))","(0, 1)",1
+<Element>_of_<Element>,amount_of_Dy_addition,"(amount, Dy_addition)","(0, 1)",1
+<Element>_of_<Element>,amount_of_heavy_rare_earth_element,"(amount, heavy_rare_earth_element)","(0, 1)",1
+<Element>_of_<Element>,amount_of_La,"(amount, La)","(0, 1)",1
+<Element>_of_<Element>,amount_of_Nd_substituted,"(amount, Nd_substituted)","(0, 1)",1
+<Element>_of_<Element>,amount_of_Pr,"(amount, Pr)","(0, 1)",2
+<Element>_of_<Element>,amount_of_rare_earth,"(amount, rare_earth)","(0, 1)",2
+<Element>_of_<Element>,amount_of_rare_earth_element,"(amount, rare_earth_element)","(0, 1)",2
+<Element>_of_<Element>,amount_of_RE,"(amount, RE)","(0, 1)",1
+<Element>_of_<Element>,amount_of_Sm,"(amount, Sm)","(0, 1)",1
+<Element>_of_<Element>,amount_of_substitution,"(amount, substitution)","(0, 1)",1
+<Element>_of_<Element>,amount_of_Zr,"(amount, Zr)","(0, 1)",1
+<Shape>_with_<QNT>_of_<Value>,anisotropic_[_Nd_Fe_B_/_Ta_/_Fe_Co_/_Ta_]_nanocomposite_multilayer_film_with_coercivity_of_0_T,"(anisotropic_[_Nd_Fe_B_/_Ta_/_Fe_Co_/_Ta_]_nanocomposite_multilayer_film, coercivity, 0_T)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_),anisotropic_field_(_μ_H_),"(anisotropic_field, μ_H)","(0, 1)",1
+<QNT>_(_<QNT>_),anisotropy_field_(_H_),"(anisotropy_field, H)","(0, 1)",1
+<QNT>_=_<Value>,anisotropy_field_H_=_0_kOe,"(anisotropy_field_H, 0_kOe)","(0, 1)",2
+<QNT>_=_<Value>,anisotropy_field_H_=_0_T,"(anisotropy_field_H, 0_T)","(0, 1)",1
+<QNT>_of_<Class>,anisotropy_field_H_of_Ce_Fe_B,"(anisotropy_field_H, Ce_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_H_of_Dy_Fe_B,"(anisotropy_field_H, Dy_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,anisotropy_field_H_of_Dy_Fe_B_phase,"(anisotropy_field_H, Dy_Fe_B_phase)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_H_of_Dy_substituted_R_Fe_B,"(anisotropy_field_H, Dy_substituted_R_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,anisotropy_field_H_of_Dy_substituted_R_Fe_B_phase,"(anisotropy_field_H, Dy_substituted_R_Fe_B_phase)","(1, 0)",1
+<QNT>_(_<Value>_),anisotropy_field_ha_(_0_kOe_),"(anisotropy_field_ha, 0_kOe)","(0, 1)",1
+<QNT>_=_<Value>,anisotropy_field_ha_=_0_kOe,"(anisotropy_field_ha, 0_kOe)","(0, 1)",1
+<QNT>_in_<Element>,anisotropy_field_in_Nd,"(anisotropy_field, Nd)","(1, 0)",1
+<QNT>_in_<Class>,anisotropy_field_in_Nd_Fe_B,"(anisotropy_field, Nd_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_of_(_Nd_Dy_)_Fe_B,"(anisotropy_field, (_Nd_Dy_)_Fe_B)","(1, 0)",2
+<QNT>_of_<Value>,anisotropy_field_of_about_0_T,"(anisotropy_field, about_0_T)","(0, 1)",1
+<QNT>_of_<QNT>,anisotropy_field_of_D,"(anisotropy_field, D)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_of_Dy_Fe_B,"(anisotropy_field, Dy_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_of_Nd_Fe_B,"(anisotropy_field, Nd_Fe_B)","(1, 0)",2
+<QNT>_of_<Shape>,anisotropy_field_of_Nd_Fe_B_matrix_phase,"(anisotropy_field, Nd_Fe_B_matrix_phase)","(1, 0)",1
+<QNT>_of_<Shape>,anisotropy_field_of_Nd_Fe_B_phase,"(anisotropy_field, Nd_Fe_B_phase)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_of_Pr_Fe_B,"(anisotropy_field, Pr_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,anisotropy_field_of_Pr_Fe_B_phase,"(anisotropy_field, Pr_Fe_B_phase)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_of_R_Fe_B,"(anisotropy_field, R_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,anisotropy_field_of_Sm_Co,"(anisotropy_field, Sm_Co)","(1, 0)",2
+<QNT>_of_<Class>,anisotropy_field_of_Zr_Co,"(anisotropy_field, Zr_Co)","(1, 0)",1
+<QNT>_of_<Shape>,anisotropy_field_of_Zr_Co_phase,"(anisotropy_field, Zr_Co_phase)","(1, 0)",1
+<Class>_be_<Value>,annealed_alloy_be_0_kA_/_m,"(annealed_alloy, 0_kA_/_m)","(0, 1)",1
+<Treatment>_at_<Treatment>,annealed_at_0_°C,"(annealed, 0_°C)","(0, 1)",16
+<Treatment>_at_<Treatment>,annealed_at_0_°C_<_T_<_0_°C,"(annealed, 0_°C_<_T_<_0_°C)","(0, 1)",1
+<Treatment>_at_<Treatment>,annealed_at_0_0_°C,"(annealed, 0_0_°C)","(0, 1)",2
+<Treatment>_at_<Treatment>,annealed_at_0_K,"(annealed, 0_K)","(0, 1)",3
+<Treatment>_at_<Treatment>,annealed_at_various_temperature,"(annealed, various_temperature)","(0, 1)",3
+<Treatment>_(_<Treatment>_),annealing_temperature_(_T_),"(annealing_temperature, T)","(0, 1)",1
+<Treatment>_to_<Treatment>,annealing_time_to_0_h,"(annealing_time, 0_h)","(0, 1)",1
+<Condition>_of_<Condition>,applied_field_of_0_kOe,"(applied_field, 0_kOe)","(0, 1)",1
+<Condition>_of_<Condition>,applied_field_of_0_T,"(applied_field, 0_T)","(0, 1)",2
+<Condition>_of_<Condition>,applied_magnetic_field_of_0_T,"(applied_magnetic_field, 0_T)","(0, 1)",1
+<Value>_at_<Condition>,approximately_0_MA_/_m_at_room_temperature,"(approximately_0_MA_/_m, room_temperature)","(0, 1)",2
+<Value>_at_<Condition>,around_0_T_at_operation_temperature,"(around_0_T, operation_temperature)","(0, 1)",1
+<Value>_at_<Condition>,around_0_T_at_room_temperature,"(around_0_T, room_temperature)","(0, 1)",1
+<Class>_be_<Value>,as_hot_deformed_magnet_be_0_T,"(as_hot_deformed_magnet, 0_T)","(0, 1)",1
+<QNT>_(_<Value>_),B_(_0_K_),"(B, 0_K)","(0, 1)",3
+<QNT>_(_<Value>_),B_(_0_kOe_),"(B, 0_kOe)","(0, 1)",1
+<QNT>_(_<QNT>_=_<Value>_),B_(_hci_=_0_kOe_),"(B, hci, 0_kOe)","(0, 1), (1, 2)",2
+<QNT>_~_<Value>,B_~_0_kG,"(B, 0_kG)","(0, 1)",1
+<QNT>_of_<Shape>,B_and_(_BH_)_of_Nd_Pr_Fe_B_melt_spun_powder,"(B_and_(_BH_), Nd_Pr_Fe_B_melt_spun_powder)","(1, 0)",1
+<QNT>_at_<Condition>,B_at_0_K,"(B, 0_K)","(0, 1)",2
+<QNT>_at_<Condition>,B_at_T,"(B, T)","(0, 1)",1
+<QNT>_be_<Value>,B_be_0_kOe,"(B, 0_kOe)","(0, 1)",1
+<QNT>_for_<Class>,B_for_Nd_Fe_B,"(B, Nd_Fe_B)","(1, 0)",1
+<QNT>_in_<Class>,B_in_Fe_Nd_B,"(B, Fe_Nd_B)","(1, 0)",1
+<QNT>_in_<Class>,B_in_Nd_Fe_Al,"(B, Nd_Fe_Al)","(1, 0)",1
+<QNT>_to_<Value>,B_to_0_T,"(B, 0_T)","(0, 1)",2
+<QNT>_up_to_<Value>,B_up_to_0_K,"(B, 0_K)","(0, 1)",1
+<Element>_with_<QNT>_of_<Value>,B_with_coercivity_of_0_T,"(B, coercivity, 0_T)","(0, 1), (1, 2)",1
+<QNT>_=_<Value>,BH_=_0_kJ_/_m_3,"(BH, 0_kJ_/_m_3)","(0, 1)",1
+<QNT>_of_<Class>,Br_of_(_Nd_Ce_)_Fe_Co_B,"(Br, (_Nd_Ce_)_Fe_Co_B)","(1, 0)",1
+<Element>_(_<Element>_),Ce_(_0_wt_._%_),"(Ce, 0_wt_._%)","(0, 1)",1
+<Element>_of_<Element>,Ce_content_of_0_%,"(Ce_content, 0_%)","(0, 1)",1
+<Class>_be_<Value>,Ce_Fe_B_be_0_T,"(Ce_Fe_B, 0_T)","(0, 1)",1
+<Element>_(_<Element>_),Co_(_0_wt_%_0_wt_%_),"(Co, 0_wt_%_0_wt_%)","(0, 1)",1
+<Element>_(_<Element>_),Co_(_0_wt_._%_),"(Co, 0_wt_._%)","(0, 1)",1
+<QNT>_(_<Value>_),coercive_field_(_~_0_MA_/_m_),"(coercive_field, ~_0_MA_/_m)","(0, 1)",1
+<QNT>_be_<QNT>,coercive_field_be_μ_H,"(coercive_field, μ_H)","(0, 1)",1
+<QNT>_of_<Value>,coercive_field_of_~_0_T,"(coercive_field, ~_0_T)","(0, 1)",1
+<QNT>_of_<Value>,coercive_field_of_0_kA_/_m,"(coercive_field, 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,coercive_field_of_0_T,"(coercive_field, 0_T)","(0, 1)",1
+<QNT>_of_<Shape>,coercive_field_of_grain,"(coercive_field, grain)","(1, 0)",1
+<QNT>_of_<QNT>,coercive_field_of_H,"(coercive_field, H)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,coercive_field_of_H_=_0_kA_/_m,"(coercive_field, H, 0_kA_/_m)","(0, 1), (1, 2)",1
+<QNT>_of_<Class>,coercive_field_of_Nd_Cu,"(coercive_field, Nd_Cu)","(1, 0)",1
+<QNT>_of_<Shape>,coercive_field_of_Nd_Cu_infiltrated_sample,"(coercive_field, Nd_Cu_infiltrated_sample)","(1, 0)",1
+<QNT>_up_to_<Value>,coercive_field_up_to_0_T,"(coercive_field, 0_T)","(0, 1)",1
+<QNT>_(_<Value>_),coercivity_(_0_0_kA_/_m_),"(coercivity, 0_0_kA_/_m)","(0, 1)",1
+<QNT>_(_<Value>_),coercivity_(_0_kA_/_m_),"(coercivity, 0_kA_/_m)","(0, 1)",1
+<QNT>_(_<Value>_),coercivity_(_0_kOe_),"(coercivity, 0_kOe)","(0, 1)",3
+<QNT>_(_<Value>_),coercivity_(_0_T_),"(coercivity, 0_T)","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Value>,coercivity_(_H_)_of_0_kOe,"(coercivity, H, 0_kOe)","(0, 1), (1, 2)",3
+<QNT>_(_<QNT>_)_of_<Value>_(_<Value>_),coercivity_(_H_)_of_0_kOe_(_0_kA_/_m_),"(coercivity, H, 0_kOe, 0_kA_/_m)","(0, 1), (1, 2), (2, 3)",1
+<QNT>_(_<QNT>_)_of_<Value>,coercivity_(_H_)_of_0_T,"(coercivity, H, 0_T)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_=_<Value>_),coercivity_(_H_=_0_kA_m_-_1_),"(coercivity, H, 0_kA_m_-_1)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_=_<Value>_),coercivity_(_H_=_0_kOe_),"(coercivity, H, 0_kOe)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_),coercivity_(_β_),"(coercivity, β)","(0, 1)",8
+<QNT>_(_<QNT>_),coercivity_(_μ_H_),"(coercivity, μ_H)","(0, 1)",3
+<QNT>_at_<Condition>,coercivity_at_0_°C,"(coercivity, 0_°C)","(0, 1)",2
+<QNT>_at_<Condition>,coercivity_at_operation_temperature,"(coercivity, operation_temperature)","(0, 1)",1
+<QNT>_at_<Condition>,coercivity_at_room_temperature,"(coercivity, room_temperature)","(0, 1)",1
+<QNT>_at_<Condition>,coercivity_at_temperature_range,"(coercivity, temperature_range)","(0, 1)",1
+<QNT>_at_<Condition>,coercivity_at_temperature_T,"(coercivity, temperature_T)","(0, 1)",2
+<QNT>_be_<Value>,coercivity_be_0_kOe,"(coercivity, 0_kOe)","(0, 1)",2
+<QNT>_be_<Value>,coercivity_be_0_T,"(coercivity, 0_T)","(0, 1)",1
+<QNT>_be_<Value>,coercivity_be_approximately_0_kA_/_m,"(coercivity, approximately_0_kA_/_m)","(0, 1)",1
+<QNT>_decreased_from_<Value>_for_<Element>_to_<Value>_for_<Element>,coercivity_decreased_from_0_kA_/_m_for_y_=_0_to_0_kA_/_m_for_y_=_0,"(coercivity, 0_kA_/_m, y_=_0, 0_kA_/_m, y_=_0)","(0, 1), (1, 2), (0, 3), (3, 4)",2
+<QNT>_to_<Value>,coercivity_decreases_to_0_kOe,"(coercivity_decreases, 0_kOe)","(0, 1)",2
+<QNT>_for_<Class>,coercivity_for_(_Nd_Ce_)_Fe_Co_B,"(coercivity, (_Nd_Ce_)_Fe_Co_B)","(1, 0)",1
+<QNT>_for_<Shape>,coercivity_for_(_Nd_Ce_)_Fe_Co_B_ribbon,"(coercivity, (_Nd_Ce_)_Fe_Co_B_ribbon)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_(_Nd_Dy_)_Fe_B_permanent_magnet,"(coercivity, (_Nd_Dy_)_Fe_B_permanent_magnet)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_diffusion_processed_magnet,"(coercivity, diffusion_processed_magnet)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_Fe_Nd_B_M,"(coercivity, Fe_Nd_B_M)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_hot_deformed_magnet,"(coercivity, hot_deformed_magnet)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_Pr_Cu_diffusion_processed_magnet,"(coercivity, Pr_Cu_diffusion_processed_magnet)","(1, 0)",1
+<QNT>_for_<Shape>,coercivity_for_sample,"(coercivity, sample)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_sintered_magnet,"(coercivity, sintered_magnet)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_Sm_Zr_(_Fe_Co_)_Ti_magnet,"(coercivity, Sm_Zr_(_Fe_Co_)_Ti_magnet)","(1, 0)",1
+<QNT>_for_<Class>,coercivity_for_SmFe,"(coercivity, SmFe)","(1, 0)",1
+<QNT>_for_<Element>,coercivity_for_x_=_0,"(coercivity, x_=_0)","(1, 0)",1
+<QNT>_<_<Value>,coercivity_H_<_0_kOe,"(coercivity_H, 0_kOe)","(0, 1)",1
+<QNT>_=_<Value>,coercivity_H_=_0_kA_/_m,"(coercivity_H, 0_kA_/_m)","(0, 1)",1
+<QNT>_=_<Value>,coercivity_H_=_0_kOe,"(coercivity_H, 0_kOe)","(0, 1)",1
+<QNT>_for_<Class>,coercivity_H_for_M,"(coercivity_H, M)","(1, 0)",1
+<QNT>_of_<Value>,coercivity_H_of_0_kA_/_m,"(coercivity_H, 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,coercivity_H_of_0_kOe,"(coercivity_H, 0_kOe)","(0, 1)",2
+<QNT>_of_<Class>,coercivity_H_of_Nd_Fe_B,"(coercivity_H, Nd_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_H_of_Nd_Fe_B_flake,"(coercivity_H, Nd_Fe_B_flake)","(1, 0)",1
+<QNT>_in_<Element>,coercivity_in_Fe,"(coercivity, Fe)","(1, 0)",1
+<QNT>_in_<Class>,coercivity_in_Fe_B_Nd_Gd_Nb_Si_magnet,"(coercivity, Fe_B_Nd_Gd_Nb_Si_magnet)","(1, 0)",1
+<QNT>_in_<Shape>,coercivity_in_Fe_B_Nd_Gd_Nb_Si_magnetic_rod,"(coercivity, Fe_B_Nd_Gd_Nb_Si_magnetic_rod)","(1, 0)",1
+<QNT>_in_<Class>,coercivity_in_GBDP_magnet,"(coercivity, GBDP_magnet)","(1, 0)",1
+<QNT>_in_<Shape>,coercivity_in_low_Ce_Nd_Ce_Fe_B_ribbon,"(coercivity, low_Ce_Nd_Ce_Fe_B_ribbon)","(1, 0)",1
+<QNT>_in_<Class>,coercivity_in_magnet,"(coercivity, magnet)","(1, 0)",1
+<QNT>_in_<Class>,coercivity_in_nanocomposite,"(coercivity, nanocomposite)","(1, 0)",1
+<QNT>_in_<Element>,coercivity_in_Nd,"(coercivity, Nd)","(1, 0)",1
+<QNT>_in_<Class>,coercivity_in_Nd_Fe_B,"(coercivity, Nd_Fe_B)","(1, 0)",1
+<QNT>_in_<Shape>,coercivity_in_Nd_Fe_B_film,"(coercivity, Nd_Fe_B_film)","(1, 0)",1
+<QNT>_in_<Element>,coercivity_in_Pr,"(coercivity, Pr)","(1, 0)",2
+<QNT>_in_<Class>,coercivity_in_Pr_Cu,"(coercivity, Pr_Cu)","(1, 0)",2
+<QNT>_in_<Shape>,coercivity_in_Pr_Cu_diffusion_processed_sample,"(coercivity, Pr_Cu_diffusion_processed_sample)","(1, 0)",2
+<QNT>_in_<Class>,coercivity_in_recycled_magnet,"(coercivity, recycled_magnet)","(1, 0)",1
+<QNT>_in_<Element>,coercivity_in_TM,"(coercivity, TM)","(1, 0)",1
+<QNT>_in_<Class>,coercivity_in_Zr_Co,"(coercivity, Zr_Co)","(1, 0)",1
+<QNT>_be_<Value>,coercivity_increase_be_about_0_kA_/_m,"(coercivity_increase, about_0_kA_/_m)","(0, 1)",1
+<QNT>_be_<Value>,coercivity_increase_be_about_0_kOe,"(coercivity_increase, about_0_kOe)","(0, 1)",1
+<QNT>_increased_from_<Value>_for_<Shape>_to_<Value>_for_<Shape>,coercivity_increased_from_0_kA_m_-_1_for_initial_sample_to_0_kA_m_-_1_for_sample,"(coercivity, 0_kA_m_-_1, initial_sample, 0_kA_m_-_1, sample)","(0, 1), (1, 2), (0, 3), (3, 4)",1
+<QNT>_initially_increases_from_<Value>_to_<Value>,coercivity_initially_increases_from_0_kA_/_m_to_0_kA_/_m,"(coercivity, 0_kA_/_m, 0_kA_/_m)","(0, 1), (0, 2)",1
+<QNT>_of_<Class>,coercivity_of_(_Nd_Dy_)_Fe_B,"(coercivity, (_Nd_Dy_)_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_(_Nd_Dy_)_Fe_B_nanoparticle,"(coercivity, (_Nd_Dy_)_Fe_B_nanoparticle)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_[_(_Nd_Pr_)_Ce_]_Fe_B_(_x_=_0_)_powder,"(coercivity, [_(_Nd_Pr_)_Ce_]_Fe_B_(_x_=_0_)_powder)","(1, 0)",1
+<QNT>_of_<Value>,coercivity_of_~_0_kA_m_-_1,"(coercivity, ~_0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Value>,coercivity_of_~_0_T,"(coercivity, ~_0_T)","(0, 1)",2
+<QNT>_of_<Value>,coercivity_of_0_0_T,"(coercivity, 0_0_T)","(0, 1)",2
+<QNT>_of_<Value>_be_obtained_at_<Condition>,coercivity_of_0_kA_/_m_be_obtained_at_0_K,"(coercivity, 0_kA_/_m, 0_K)","(0, 1), (1, 2)",1
+<QNT>_of_<Value>,coercivity_of_0_kA_m_-_1,"(coercivity, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Value>,coercivity_of_0_Oe,"(coercivity, 0_Oe)","(0, 1)",2
+<QNT>_of_<Value>,coercivity_of_about_0_kA_/_m,"(coercivity, about_0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Class>,coercivity_of_alloy,"(coercivity, alloy)","(1, 0)",3
+<QNT>_of_<Shape>,coercivity_of_alloy_powder,"(coercivity, alloy_powder)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_annealed_x_=_0_alloy,"(coercivity, annealed_x_=_0_alloy)","(1, 0)",1
+<QNT>_of_<Value>,coercivity_of_approximately_0_MA_/_m,"(coercivity, approximately_0_MA_/_m)","(0, 1)",1
+<QNT>_of_<Class>,coercivity_of_bulk_material,"(coercivity, bulk_material)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Co_Zr_B_nanocomposite,"(coercivity, Co_Zr_B_nanocomposite)","(1, 0)",2
+<QNT>_of_<Class>,coercivity_of_DyF_EPD_coated_magnet,"(coercivity, DyF_EPD_coated_magnet)","(1, 0)",2
+<QNT>_of_<Shape>,coercivity_of_exchange_coupled_Nd_Fe_B_/_Fe_multilayer_thin_film,"(coercivity, exchange_coupled_Nd_Fe_B_/_Fe_multilayer_thin_film)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Fe_Nd_B,"(coercivity, Fe_Nd_B)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Fe_Nd_B_alloy,"(coercivity, Fe_Nd_B_alloy)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Fe_Nd_B_V,"(coercivity, Fe_Nd_B_V)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Fe_Pt_B,"(coercivity, Fe_Pt_B)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_film,"(coercivity, film)","(1, 0)",5
+<QNT>_of_<Class>,coercivity_of_GBDP_magnet,"(coercivity, GBDP_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_grain,"(coercivity, grain)","(1, 0)",2
+<QNT>_of_<QNT>,coercivity_of_H,"(coercivity, H)","(0, 1)",14
+<QNT>_of_<QNT>_=_<Value>,coercivity_of_H_=_0_kA_/_m,"(coercivity, H, 0_kA_/_m)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_=_<Value>,coercivity_of_H_=_0_kA_m_-_1,"(coercivity, H, 0_kA_m_-_1)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_=_<Value>,coercivity_of_H_=_0_kOe,"(coercivity, H, 0_kOe)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>,coercivity_of_ha,"(coercivity, ha)","(0, 1)",1
+<QNT>_of_<Class>,coercivity_of_hot_deformed_Nd_Fe_B_magnet,"(coercivity, hot_deformed_Nd_Fe_B_magnet)","(1, 0)",3
+<QNT>_of_<Class>,coercivity_of_hot_pressed,"(coercivity, hot_pressed)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_hot_pressed_magnet,"(coercivity, hot_pressed_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_hot_pressed_sample,"(coercivity, hot_pressed_sample)","(1, 0)",1
+<QNT>_of_<QNT>,coercivity_of_M,"(coercivity, M)","(1, 0)",2
+<QNT>_of_<Class>,coercivity_of_M_type_hexaferrite,"(coercivity, M_type_hexaferrite)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_melt_spun_Nd_Fe_B,"(coercivity, melt_spun_Nd_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_melt_spun_Nd_Fe_B_powder,"(coercivity, melt_spun_Nd_Fe_B_powder)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_melt_spun_ribbon,"(coercivity, melt_spun_ribbon)","(1, 0)",2
+<QNT>_of_<Class>,coercivity_of_melt_spun_SmCo_ribbon,"(coercivity, melt_spun_SmCo_ribbon)","(1, 0)",1
+<QNT>_of_<Value>,coercivity_of_more_than_0_kOe,"(coercivity, more_than_0_kOe)","(0, 1)",1
+<QNT>_of_<Class>,coercivity_of_nanocomposite,"(coercivity, nanocomposite)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Dy_Al_diffusion_processed_magnet,"(coercivity, Nd_Dy_Al_diffusion_processed_magnet)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe,"(coercivity, Nd_Fe)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B,"(coercivity, Nd_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B_/_α_Fe_nanocomposite_magnet,"(coercivity, Nd_Fe_B_/_α_Fe_nanocomposite_magnet)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B_Hf,"(coercivity, Nd_Fe_B_Hf)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B_Hf_alloy,"(coercivity, Nd_Fe_B_Hf_alloy)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_Nd_Fe_B_Hf_melt_spun_ribbon,"(coercivity, Nd_Fe_B_Hf_melt_spun_ribbon)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B_hot_deformed_magnet,"(coercivity, Nd_Fe_B_hot_deformed_magnet)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B_magnet,"(coercivity, Nd_Fe_B_magnet)","(1, 0)",3
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B_permanent_magnet,"(coercivity, Nd_Fe_B_permanent_magnet)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_B_sintered_magnet,"(coercivity, Nd_Fe_B_sintered_magnet)","(1, 0)",4
+<QNT>_of_<Class>,coercivity_of_Nd_Fe_Co_B_Ga,"(coercivity, Nd_Fe_Co_B_Ga)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_Nd_Fe_Co_B_Ga_powder,"(coercivity, Nd_Fe_Co_B_Ga_powder)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_Nd_Fe_MCB_ribbon,"(coercivity, Nd_Fe_MCB_ribbon)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_NdFeB_sintered_magnet,"(coercivity, NdFeB_sintered_magnet)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_original_N48M_magnet,"(coercivity, original_N48M_magnet)","(1, 0)",1
+<QNT>_of_<Value>,coercivity_of_over_0_T,"(coercivity, over_0_T)","(0, 1)",1
+<QNT>_of_<Shape>,coercivity_of_particle,"(coercivity, particle)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_permanent_magnet,"(coercivity, permanent_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_powder,"(coercivity, powder)","(1, 0)",4
+<QNT>_of_<Class>,coercivity_of_Pr_Co_C,"(coercivity, Pr_Co_C)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_Pr_Co_C_ribbon,"(coercivity, Pr_Co_C_ribbon)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Pr_Fe_B,"(coercivity, Pr_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_R_Fe_B,"(coercivity, R_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_sample,"(coercivity, sample)","(1, 0)",9
+<QNT>_of_<Shape>,coercivity_of_sample_SrAl_Fe_O,"(coercivity, sample_SrAl_Fe_O)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_single_phase,"(coercivity, single_phase)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_sintered_Nd_Fe_B_magnet,"(coercivity, sintered_Nd_Fe_B_magnet)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Sm_Fe_Al,"(coercivity, Sm_Fe_Al)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_Sm_Fe_C,"(coercivity, Sm_Fe_C)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_Sm_Fe_Cu_Ga_C_ribbon,"(coercivity, Sm_Fe_Cu_Ga_C_ribbon)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_SrAl_Fe_O,"(coercivity, SrAl_Fe_O)","(1, 0)",2
+<QNT>_of_<Shape>,coercivity_of_surface,"(coercivity, surface)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_of_this_sample,"(coercivity, this_sample)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_x_=_0_alloy,"(coercivity, x_=_0_alloy)","(1, 0)",1
+<QNT>_of_<QNT>,coercivity_of_α,"(coercivity, α)","(0, 1)",1
+<QNT>_of_<Element>,coercivity_of_α_Fe,"(coercivity, α_Fe)","(1, 0)",1
+<QNT>_of_<Class>,coercivity_of_α_Fe_/_Nd_Fe_B_nanocomposite_magnet,"(coercivity, α_Fe_/_Nd_Fe_B_nanocomposite_magnet)","(1, 0)",1
+<QNT>_of_<QNT>,coercivity_of_μ_H,"(coercivity, μ_H)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,coercivity_of_μ_H_=_0_T,"(coercivity, μ_H, 0_T)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_),coercivity_temperature_coefficient_(_β_),"(coercivity_temperature_coefficient, β)","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Class>_be_<Value>,coercivity_temperature_coefficient_(_β_)_of_recycled_magnet_be_0_%_/_K,"(coercivity_temperature_coefficient, β, recycled_magnet, 0_%_/_K)","(0, 1), (2, 0), (1, 3)",1
+<QNT>_of_<Value>,coercivity_temperature_coefficient_of_0_%_/_K,"(coercivity_temperature_coefficient, 0_%_/_K)","(0, 1)",1
+<QNT>_=_<Value>,coercivity_temperature_coefficient_β_=_0_%_/_°C,"(coercivity_temperature_coefficient_β, 0_%_/_°C)","(0, 1)",1
+<QNT>_to_<Value>,coercivity_to_0_kA_/_m,"(coercivity, 0_kA_/_m)","(0, 1)",1
+<QNT>_to_<Value>,coercivity_to_0_kOe,"(coercivity, 0_kOe)","(0, 1)",1
+<QNT>_up_to_<Value>,coercivity_up_to_0_T,"(coercivity, 0_T)","(0, 1)",2
+<QNT>_be_<Value>,coercivity_value_be_low_than_0_kOe,"(coercivity_value, low_than_0_kOe)","(0, 1)",1
+<QNT>_of_<Value>,coercivity_value_of_0_kOe,"(coercivity_value, 0_kOe)","(0, 1)",1
+<QNT>_of_<Value>,coercivity_value_of_0_T,"(coercivity_value, 0_T)","(0, 1)",2
+<QNT>_of_<Class>,coercivity_value_of_Pr_Fe_B,"(coercivity_value, Pr_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_value_of_Pr_Fe_B_/_α_Fe_film,"(coercivity_value, Pr_Fe_B_/_α_Fe_film)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_value_of_sample,"(coercivity_value, sample)","(1, 0)",1
+<QNT>_of_<Shape>,coercivity_value_of_thick_film,"(coercivity_value, thick_film)","(1, 0)",1
+<QNT>_to_<Value>,coercivity_value_to_0_T,"(coercivity_value, 0_T)","(0, 1)",1
+<QNT>_up_to_<Value>,coercivity_value_up_to_0_kA_/_m,"(coercivity_value, 0_kA_/_m)","(0, 1)",2
+<Element>_(_<Element>_),Cu_(_0_at_._%_),"(Cu, 0_at_._%)","(0, 1)",1
+<Element>_(_<Element>_),Cu_content_(_0_at_._%_),"(Cu_content, 0_at_._%)","(0, 1)",1
+<QNT>_(_<Value>_),curie_temperature_(_0_°C_),"(curie_temperature, 0_°C)","(0, 1)",1
+<QNT>_for_<Class>,curie_temperature_for_Nd_Fe_B,"(curie_temperature, Nd_Fe_B)","(1, 0)",1
+<QNT>_for_<Shape>,curie_temperature_for_Nd_Fe_B_sample_0,"(curie_temperature, Nd_Fe_B_sample_0)","(1, 0)",1
+<QNT>_in_<Class>,curie_temperature_in_Nd_Ce_Fe_B_alloy,"(curie_temperature, Nd_Ce_Fe_B_alloy)","(1, 0)",1
+<QNT>_of_<Value>,curie_temperature_of_0_°C,"(curie_temperature, 0_°C)","(0, 1)",2
+<QNT>_of_<Value>,curie_temperature_of_0_K,"(curie_temperature, 0_K)","(0, 1)",3
+<QNT>_of_<Class>,curie_temperature_of_Fe,"(curie_temperature, Fe)","(1, 0)",1
+<QNT>_of_<Shape>,curie_temperature_of_GB_phase,"(curie_temperature, GB_phase)","(1, 0)",1
+<QNT>_of_<Class>,curie_temperature_of_magnet,"(curie_temperature, magnet)","(1, 0)",2
+<QNT>_of_<Shape>,curie_temperature_of_magnetic_phase,"(curie_temperature, magnetic_phase)","(1, 0)",1
+<QNT>_of_<Class>,curie_temperature_of_Nd_Fe_B_magnet,"(curie_temperature, Nd_Fe_B_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,curie_temperature_of_phase,"(curie_temperature, phase)","(1, 0)",1
+<QNT>_of_<Value>,curie_temperature_of_T,"(curie_temperature, T)","(0, 1)",2
+<QNT>_of_<QNT>_=_<Value>,curie_temperature_of_T_=_0_K,"(curie_temperature, T, 0_K)","(0, 1), (1, 2)",2
+<QNT>_of_<Class>,curie_temperature_T_of_(_Nd_Ce_)_Fe_Co_B,"(curie_temperature_T, (_Nd_Ce_)_Fe_Co_B)","(1, 0)",1
+<QNT>_of_<Shape>,curie_temperature_T_of_(_Nd_Ce_)_Fe_Co_B_melt_spun_ribbon,"(curie_temperature_T, (_Nd_Ce_)_Fe_Co_B_melt_spun_ribbon)","(1, 0)",1
+<QNT>_to_<Value>,curie_temperature_T_to_0_°C,"(curie_temperature_T, 0_°C)","(0, 1)",1
+<QNT>_of_<Class>,D_of_Nd_Fe_B,"(D, Nd_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,decrease_in_remanence_of_magnet,"(decrease_in_remanence, magnet)","(1, 0)",1
+<Fabrication>_at_<Fabrication>,deposited_at_0_°C,"(deposited, 0_°C)","(0, 1)",1
+<Fabrication>_at_<Fabrication>,deposited_at_substrate_temperature,"(deposited, substrate_temperature)","(0, 1)",1
+<Treatment>_at_<Treatment>,deposition_annealing_at_0_°C,"(deposition_annealing, 0_°C)","(0, 1)",1
+<QNT>_for_<Element>,diffusion_coefficient_for_Dy,"(diffusion_coefficient, Dy)","(1, 0)",1
+<QNT>_of_<QNT>,diffusion_coefficient_of_D,"(diffusion_coefficient, D)","(0, 1)",2
+<Treatment>_at_<Treatment>,diffusion_process_at_0_°C,"(diffusion_process, 0_°C)","(0, 1)",2
+<Treatment>_to_<Treatment>,diffusion_time_to_0_h,"(diffusion_time, 0_h)","(0, 1)",1
+<Treatment>_at_<Treatment>,diffusion_treatment_at_0_°C,"(diffusion_treatment, 0_°C)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_0_wt_._%_Dy,"(distribution, 0_wt_._%_Dy)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_Ce,"(distribution, Ce)","(0, 1)",4
+<Element>_of_<Element>,distribution_of_Co,"(distribution, Co)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_Dy,"(distribution, Dy)","(0, 1)",5
+<Element>_of_<Element>,distribution_of_Dy_element,"(distribution, Dy_element)","(0, 1)",3
+<Element>_of_<Element>,distribution_of_Nd_content,"(distribution, Nd_content)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_Nd_rich,"(distribution, Nd_rich)","(0, 1)",6
+<Element>_of_<Element>,distribution_of_RE,"(distribution, RE)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_RE_rich,"(distribution, RE_rich)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_Tb,"(distribution, Tb)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_Zr,"(distribution, Zr)","(0, 1)",1
+<Element>_of_<Element>,distribution_of_α_Fe,"(distribution, α_Fe)","(0, 1)",2
+<Class>_be_<Value>,DQ_alloy_be_0_kA_/_m,"(DQ_alloy, 0_kA_/_m)","(0, 1)",1
+<Element>_with_<QNT>_of_<Value>,Dy_addition_with_remanence_of_0_T,"(Dy_addition, remanence, 0_T)","(0, 1), (1, 2)",1
+<Element>_of_<Element>,Dy_content_of_~_0_at_._%,"(Dy_content, ~_0_at_._%)","(0, 1)",1
+<Element>_of_<Element>,Dy_content_of_x_=_0,"(Dy_content, x_=_0)","(0, 1)",1
+<Treatment>_and_<Treatment>,Dy_Cu_and_Pr_Cu_alloy,"(Dy_Cu, Pr_Cu_alloy)","(0, 1)",1
+<Treatment>_and_<Treatment>,Dy_Cu_and_Pr_Dy_Cu_ribbon,"(Dy_Cu, Pr_Dy_Cu_ribbon)","(0, 1)",3
+<Class>_be_<Value>,Dy_Fe_B_be_0_T,"(Dy_Fe_B, 0_T)","(0, 1)",1
+<Class>_with_<QNT>_of_<Value>,Dy_free_Nd_Pr_B_Cu_Al_Co_Fe_at_%_(_0_wt_%_RE_content_)_magnet_with_high_coercivity_of_0_kOe,"(Dy_free_Nd_Pr_B_Cu_Al_Co_Fe_at_%_(_0_wt_%_RE_content_)_magnet, high_coercivity, 0_kOe)","(0, 1), (1, 2)",1
+<Shape>_(_<Shape>_),Dy_interlayer_(_0_nm_<_t_<_0_nm_),"(Dy_interlayer, 0_nm_<_t_<_0_nm)","(0, 1)",1
+<Class>_be_<Value>,Dy_substituted_alloy_be_0_kA_/_m,"(Dy_substituted_alloy, 0_kA_/_m)","(0, 1)",1
+<Element>_(_<Element>_),Dy_substitution_(_0_wt_._%_),"(Dy_substitution, 0_wt_._%)","(0, 1)",1
+<QNT>_of_<Value>,energy_density_of_about_0_kJ_/_m_3,"(energy_density, about_0_kJ_/_m_3)","(0, 1)",1
+<QNT>_(_<QNT>_=_<Value>_),energy_product_(_(_BH_)_=_0_kJ_/_m_3_),"(energy_product, (_BH_), 0_kJ_/_m_3)","(0, 1), (1, 2)",1
+<QNT>_=_<Value>,energy_product_(_BH_)_=_0_MGOe,"(energy_product_(_BH_), 0_MGOe)","(0, 1)",1
+<QNT>_of_<Value>,energy_product_(_BH_)_of_0_kJ_m_-_3,"(energy_product_(_BH_), 0_kJ_m_-_3)","(0, 1)",1
+<QNT>_be_<Value>,energy_product_be_0_T,"(energy_product, 0_T)","(0, 1)",1
+<QNT>_in_<Class>,energy_product_in_anisotropic_nanocomposite,"(energy_product, anisotropic_nanocomposite)","(1, 0)",1
+<QNT>_of_<Value>,energy_product_of_0_0_MGOe,"(energy_product, 0_0_MGOe)","(0, 1)",1
+<QNT>_of_<Value>,energy_product_of_0_m_/_s,"(energy_product, 0_m_/_s)","(0, 1)",1
+<QNT>_of_<Class>,energy_product_of_magnet,"(energy_product, magnet)","(1, 0)",1
+<QNT>_of_<Class>,energy_product_of_nanocomposite,"(energy_product, nanocomposite)","(1, 0)",2
+<QNT>_of_<Class>_be_recorded_as_high_as_<Value>,energy_product_of_nanocomposite_be_recorded_as_high_as_0_MJ_/_m_3,"(energy_product, nanocomposite, 0_MJ_/_m_3)","(1, 0), (1, 2)",1
+<QNT>_of_<Class>,enhance_coercivity_of_Ce_Fe_B_magnet,"(enhance_coercivity, Ce_Fe_B_magnet)","(1, 0)",1
+<QNT>_of_<Class>,enhance_coercivity_of_hot_deformed_magnet,"(enhance_coercivity, hot_deformed_magnet)","(1, 0)",3
+<QNT>_of_<Class>,enhance_coercivity_of_magnet,"(enhance_coercivity, magnet)","(1, 0)",1
+<QNT>_of_<Element>,enhance_coercivity_of_Nd,"(enhance_coercivity, Nd)","(1, 0)",3
+<QNT>_of_<Class>,enhance_coercivity_of_Nd_Fe_B,"(enhance_coercivity, Nd_Fe_B)","(1, 0)",3
+<QNT>_of_<Shape>,enhance_coercivity_of_Nd_Fe_B_layer,"(enhance_coercivity, Nd_Fe_B_layer)","(1, 0)",2
+<QNT>_of_<Class>,enhance_coercivity_of_sintered_magnet,"(enhance_coercivity, sintered_magnet)","(1, 0)",1
+<QNT>_of_<Class>,enhance_coercivity_of_SrFe_O,"(enhance_coercivity, SrFe_O)","(1, 0)",1
+<QNT>_up_to_<Value>,enhance_coercivity_up_to_0_kA_/_m,"(enhance_coercivity, 0_kA_/_m)","(0, 1)",1
+<Element>_of_<Element>,extra_amount_of_Nd_+_Ce,"(extra_amount, Nd_+_Ce)","(0, 1)",1
+<Element>_(_<Element>_),Fe_(_0_wt_._%_),"(Fe, 0_wt_._%)","(0, 1)",2
+<Shape>_be_<Value>,Fe_/_Pr_Fe_B_film_be_0_μ,"(Fe_/_Pr_Fe_B_film, 0_μ)","(0, 1)",1
+<Element>_be_<Value>,Fe_3_+_ion_be_0_μ,"(Fe_3_+_ion, 0_μ)","(0, 1)",1
+<Shape>_with_<QNT>_of_<Value>,Fe_B_/_Nd_Fe_B_film_with_remanence_value_of_0_T,"(Fe_B_/_Nd_Fe_B_film, remanence_value, 0_T)","(0, 1), (1, 2)",1
+<Element>_of_<Element>,Fe_concentration_of_0_%,"(Fe_concentration, 0_%)","(0, 1)",1
+<QNT>_in_<Shape>,Fe_magnetic_moment_in_GB_phase,"(Fe_magnetic_moment, GB_phase)","(1, 0)",2
+<Class>_with_<QNT>_of_<Value>,FePr_(_BSi_)_alloy_with_coercivity_of_0_kOe,"(FePr_(_BSi_)_alloy, coercivity, 0_kOe)","(0, 1), (1, 2)",1
+<Shape>_be_<Value>,film_be_~_0_T,"(film, ~_0_T)","(0, 1)",1
+<Shape>_with_<QNT>_of_<Value>,film_with_coercivity_of_0_T,"(film, coercivity, 0_T)","(0, 1), (1, 2)",1
+<Shape>_with_<QNT>_of_<Value>,film_with_remanence_value_of_0_T,"(film, remanence_value, 0_T)","(0, 1), (1, 2)",1
+<Treatment>_at_<Treatment>,GBDP_at_various_temperature,"(GBDP, various_temperature)","(0, 1)",1
+<QNT>_up_to_<Value>,giant_coercivity_up_to_0_kOe,"(giant_coercivity, 0_kOe)","(0, 1)",1
+<Shape>_(_<Shape>_),grain_size_(_0_0_nm_),"(grain_size, 0_0_nm)","(0, 1)",1
+<Shape>_(_<Shape>_),grain_size_(_0_μ_m_),"(grain_size, 0_μ_m)","(0, 1)",1
+<QNT>_(_<Value>_),H_(_0_kOe_),"(H, 0_kOe)","(0, 1)",4
+<QNT>_~_<Value>,H_~_0_kA_/_m,"(H, 0_kA_/_m)","(0, 1)",2
+<QNT>_~_<Value>,H_~_0_MA_/_m,"(H, 0_MA_/_m)","(0, 1)",1
+<QNT>_~_<Value>,H_~_0_Oe,"(H, 0_Oe)","(0, 1)",1
+<QNT>_for_<Class>,H_for_0_wt_._%_Nd_Fe_B,"(H, 0_wt_._%_Nd_Fe_B)","(1, 0)",1
+<QNT>_for_<Class>,H_for_alloy,"(H, alloy)","(1, 0)",1
+<QNT>_for_<Class>,H_for_Pr_Co_C,"(H, Pr_Co_C)","(1, 0)",2
+<QNT>_for_<Class>,H_for_Pr_Fe_B,"(H, Pr_Fe_B)","(1, 0)",1
+<QNT>_for_<Element>,H_for_Pr_Fe_B_/_α_Fe,"(H, Pr_Fe_B_/_α_Fe)","(1, 0)",1
+<QNT>_for_<Shape>,H_for_sample,"(H, sample)","(1, 0)",1
+<QNT>_in_<Class>,H_in_CeFe_Co_Ti,"(H, CeFe_Co_Ti)","(1, 0)",1
+<QNT>_of_<Value>,H_of_0_kA_m_-_1,"(H, 0_kA_m_-_1)","(0, 1)",2
+<QNT>_of_<Value>,H_of_about_0_kA_/_m,"(H, about_0_kA_/_m)","(0, 1)",2
+<QNT>_of_<Class>,H_of_alloy,"(H, alloy)","(1, 0)",1
+<QNT>_of_<Shape>,H_of_alloy_rod,"(H, alloy_rod)","(1, 0)",1
+<QNT>_of_<Class>,H_of_Fe_Nd_B,"(H, Fe_Nd_B)","(1, 0)",1
+<QNT>_of_<Class>_increases_from_<Value>_at_<Condition>_to_<Value>_at_<Condition>,H_of_ferrite_magnet_increases_from_0_kOe_at_0_°C_to_0_kOe_at_0_°C,"(H, ferrite_magnet, 0_kOe, 0_°C, 0_kOe, 0_°C)","(1, 0), (0, 2), (2, 3), (0, 4), (4, 5)",1
+<QNT>_of_<Class>,H_of_magnet,"(H, magnet)","(1, 0)",1
+<QNT>_of_<Class>,H_of_MRE_Fe_B,"(H, MRE_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,H_of_Nd_Fe_B,"(H, Nd_Fe_B)","(1, 0)",3
+<QNT>_of_<Shape>,H_of_Nd_Fe_B_/_Dy_/_Nd_film,"(H, Nd_Fe_B_/_Dy_/_Nd_film)","(1, 0)",1
+<QNT>_of_<Shape>,H_of_Nd_Fe_B_/_Dy_/_Nd_thin_film,"(H, Nd_Fe_B_/_Dy_/_Nd_thin_film)","(1, 0)",1
+<QNT>_of_<Shape>,H_of_Nd_Fe_B_film,"(H, Nd_Fe_B_film)","(1, 0)",1
+<QNT>_up_to_<Value>,H_up_to_~_0_kA_m_-_1,"(H, ~_0_kA_m_-_1)","(0, 1)",1
+<QNT>_up_to_<Value>,H_up_to_0_kOe,"(H, 0_kOe)","(0, 1)",1
+<QNT>_be_<Value>,H_value_be_approximately_0_kA_/_m,"(H_value, approximately_0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,H_value_of_0_kA_/_m,"(H_value, 0_kA_/_m)","(0, 1)",2
+<QNT>_of_<Value>,H_value_of_0_kA_m_-_1,"(H_value, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_(_<QNT>_),hci_(_β_),"(hci, β)","(0, 1)",1
+<QNT>_~_<Value>,hci_~_0_kOe,"(hci, 0_kOe)","(0, 1)",2
+<QNT>_and_<QNT>_be_<Value>_and_<Value>,hci_and_(_BH_)_max_be_0_kOe_and_0_MGOe,"(hci, (_BH_)_max, 0_kOe, 0_MGOe)","(0, 2), (1, 3)",1
+<QNT>_and_<QNT>_for_<Class>_vary_from_<Value>_and_<Value>_at_<Condition>_to_<Value>_and_<Value>_at_<Condition>,hci_and_(_BH_)_max_for_(_Nd_Ce_)_Fe_B_vary_from_0_kOe_and_0_MGOe_at_0_K_to_0_kOe_and_0_MGOe_at_0_K,"(hci, (_BH_)_max, (_Nd_Ce_)_Fe_B, 0_kOe, 0_MGOe, 0_K, 0_kOe, 0_MGOe, 0_K)","(2, 0), (2, 1), (0, 3), (1, 4), (3, 5), (4, 5), (0, 6), (1, 7), (6, 8), (7, 8)",1
+<QNT>_between_<Value>_and_<Value>,hci_between_0_and_0_kOe,"(hci, 0, 0_kOe)","(0, 1), (0, 2)",1
+<QNT>_for_<Class>,hci_for_(_Nd_Ce_)_Fe_Co_B,"(hci, (_Nd_Ce_)_Fe_Co_B)","(1, 0)",1
+<QNT>_for_<Shape>,hci_for_(_Nd_Ce_)_Fe_Co_B_melt_spun_ribbon,"(hci, (_Nd_Ce_)_Fe_Co_B_melt_spun_ribbon)","(1, 0)",1
+<QNT>_for_<Shape>,hci_for_sample,"(hci, sample)","(1, 0)",1
+<QNT>_for_<Element>,hci_for_x_=_0,"(hci, x_=_0)","(1, 0)",1
+<QNT>_of_<Element>,hci_of_0_%_Ce_substitution,"(hci, 0_%_Ce_substitution)","(1, 0)",1
+<Class>_with_<QNT>_of_<Value>,HD_magnet_with_coercivity_value_of_0_T,"(HD_magnet, coercivity_value, 0_T)","(0, 1), (1, 2)",1
+<Fabrication>_of_<Fabrication>,HD_temperature_of_0_°C,"(HD_temperature, 0_°C)","(1, 0)",1
+<Shape>_with_<QNT>_of_<Value>,HDDR_powder_with_coercivity_of_0_kA_/_m,"(HDDR_powder, coercivity, 0_kA_/_m)","(0, 1), (1, 2)",1
+<Shape>_with_<QNT>_of_<Value>,HDDR_powder_with_coercivity_of_0_kOe,"(HDDR_powder, coercivity, 0_kOe)","(0, 1), (1, 2)",1
+<Treatment>_at_<Treatment>,heat_treated_at_temperature,"(heat_treated, temperature)","(0, 1)",1
+<Treatment>_at_<Treatment>,heat_treatment_at_0_°C,"(heat_treatment, 0_°C)","(0, 1)",1
+<QNT>_of_<Value>,high_(_BH_)_of_0_±_0_kJ_m_-_3_be,"(high_(_BH_), 0_±_0_kJ_m_-_3_be)","(0, 1)",2
+<QNT>_of_<Value>,high_(_BH_)_of_0_kJ_m_-_3,"(high_(_BH_), 0_kJ_m_-_3)","(0, 1)",1
+<QNT>_of_<Value>,high_(_BH_)_of_0_MGOe,"(high_(_BH_), 0_MGOe)","(0, 1)",1
+<QNT>_(_<Value>_),high_coercivity_(_~_0_kOe_),"(high_coercivity, ~_0_kOe)","(0, 1)",1
+<QNT>_(_<Value>_),high_coercivity_(_0_kA_/_m_),"(high_coercivity, 0_kA_/_m)","(0, 1)",1
+<QNT>_(_<Value>_),high_coercivity_(_0_Oe_),"(high_coercivity, 0_Oe)","(0, 1)",1
+<QNT>_(_<Value>_),high_coercivity_(_0_T_),"(high_coercivity, 0_T)","(0, 1)",1
+<QNT>_(_<QNT>_),high_coercivity_(_H_),"(high_coercivity, H)","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Value>,high_coercivity_(_H_)_of_approximately_0_MA_/_m,"(high_coercivity, H, approximately_0_MA_/_m)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_=_<Value>_),high_coercivity_(_H_=_0_kA_/_m_),"(high_coercivity, H, 0_kA_/_m)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_=_<Value>_),high_coercivity_(_H_=_0_kOe_),"(high_coercivity, H, 0_kOe)","(0, 1), (1, 2)",1
+<QNT>_at_<Condition>,high_coercivity_at_0_T,"(high_coercivity, 0_T)","(0, 1)",1
+<QNT>_for_<Element>,high_coercivity_for_Nd_rich_composition,"(high_coercivity, Nd_rich_composition)","(1, 0)",1
+<QNT>_in_<Class>,high_coercivity_in_magnet,"(high_coercivity, magnet)","(1, 0)",1
+<QNT>_in_<Class>,high_coercivity_in_melt_spun_precipitation_hardened_magnet,"(high_coercivity, melt_spun_precipitation_hardened_magnet)","(1, 0)",1
+<QNT>_in_<Element>,high_coercivity_in_Nd,"(high_coercivity, Nd)","(1, 0)",2
+<QNT>_in_<Class>,high_coercivity_in_Nd_Fe_B_/_Fe_nanocomposite,"(high_coercivity, Nd_Fe_B_/_Fe_nanocomposite)","(1, 0)",2
+<QNT>_in_<Shape>,high_coercivity_in_Nd_Fe_B_/_Fe_nanocomposite_film,"(high_coercivity, Nd_Fe_B_/_Fe_nanocomposite_film)","(1, 0)",2
+<QNT>_in_<Class>,high_coercivity_in_permanent_magnet,"(high_coercivity, permanent_magnet)","(1, 0)",1
+<QNT>_in_<Class>,high_coercivity_in_recycled_magnet,"(high_coercivity, recycled_magnet)","(1, 0)",1
+<QNT>_in_<Shape>,high_coercivity_in_single_phase,"(high_coercivity, single_phase)","(1, 0)",1
+<QNT>_of_<Value>,high_coercivity_of_0_kA_/_m,"(high_coercivity, 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,high_coercivity_of_0_kA_m_-_1,"(high_coercivity, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Value>,high_coercivity_of_0_kOe,"(high_coercivity, 0_kOe)","(0, 1)",8
+<QNT>_of_<Value>,high_coercivity_of_0_T,"(high_coercivity, 0_T)","(0, 1)",9
+<QNT>_of_<Value>,high_coercivity_of_about_0_T,"(high_coercivity, about_0_T)","(0, 1)",1
+<QNT>_of_<Value>,high_coercivity_of_approximately_0_MA_/_m,"(high_coercivity, approximately_0_MA_/_m)","(0, 1)",1
+<QNT>_of_<QNT>,high_coercivity_of_H,"(high_coercivity, H)","(0, 1)",6
+<QNT>_of_<QNT>_=_<Value>,high_coercivity_of_H_=_0_kOe,"(high_coercivity, H, 0_kOe)","(0, 1), (1, 2)",5
+<QNT>_of_<Shape>,high_coercivity_of_modified_powder,"(high_coercivity, modified_powder)","(1, 0)",1
+<QNT>_of_<Class>,high_coercivity_of_Pr_Cu,"(high_coercivity, Pr_Cu)","(1, 0)",1
+<QNT>_of_<Shape>,high_coercivity_of_Pr_Cu_diffusion_processed_sample,"(high_coercivity, Pr_Cu_diffusion_processed_sample)","(1, 0)",1
+<QNT>_of_<Class>,high_coercivity_of_recycled_magnet,"(high_coercivity, recycled_magnet)","(1, 0)",1
+<QNT>_of_<Class>,high_coercivity_of_x_=_0_alloy,"(high_coercivity, x_=_0_alloy)","(1, 0)",1
+<QNT>_(_<Value>_),high_H_(_0_0_kA_m_-_1_),"(high_H, 0_0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Value>,high_H_of_0_kA_/_m,"(high_H, 0_kA_/_m)","(0, 1)",3
+<QNT>_of_<Value>,high_H_of_0_kOe,"(high_H, 0_kOe)","(0, 1)",3
+<QNT>_of_<Value>,high_maximum_energy_product_(_BH_)_of_0_kJ_/_m_3,"(high_maximum_energy_product_(_BH_), 0_kJ_/_m_3)","(0, 1)",1
+<QNT>_(_<QNT>_=_<Value>_),high_remanence_(_B_=_0_0_T_),"(high_remanence, B, 0_0_T)","(0, 1), (1, 2)",1
+<QNT>_in_<Element>,high_remanence_in_Zr_containing,"(high_remanence, Zr_containing)","(1, 0)",1
+<QNT>_of_<Value>,high_remanence_of_~_0_T,"(high_remanence, ~_0_T)","(0, 1)",1
+<QNT>_of_<Value>,high_remanence_of_0_emu_/_g,"(high_remanence, 0_emu_/_g)","(0, 1)",1
+<QNT>_of_<Value>,high_remanence_of_0_kG,"(high_remanence, 0_kG)","(0, 1)",2
+<QNT>_of_<QNT>,high_remanence_of_J,"(high_remanence, J)","(0, 1)",2
+<QNT>_of_<QNT>_=_<Value>,high_remanence_of_J_=_0_T,"(high_remanence, J, 0_T)","(0, 1), (1, 2)",2
+<QNT>_of_<Class>,high_room_temperature_coercivity_of_Pr_Cu_diffusion_processed_hot_deformed_Nd_Fe_B_magnet,"(high_room_temperature_coercivity, Pr_Cu_diffusion_processed_hot_deformed_Nd_Fe_B_magnet)","(1, 0)",1
+<QNT>_(_<QNT>_=_<Value>_),high_saturation_magnetization_(_μ_M_=_0_T_),"(high_saturation_magnetization, μ_M, 0_T)","(0, 1), (1, 2)",2
+<QNT>_in_<Class>,high_saturation_magnetization_in_nanocomposite,"(high_saturation_magnetization, nanocomposite)","(1, 0)",2
+<QNT>_in_<Shape>,high_saturation_magnetization_in_nanocomposite_film,"(high_saturation_magnetization, nanocomposite_film)","(1, 0)",2
+<QNT>_of_<Element>,high_saturation_magnetization_of_Nd,"(high_saturation_magnetization, Nd)","(1, 0)",1
+<QNT>_of_<Class>,high_saturation_magnetization_of_Nd_Fe_B,"(high_saturation_magnetization, Nd_Fe_B)","(1, 0)",1
+<QNT>_(_<Value>_),high_uniaxial_anisotropy_(_0_MJ_/_m_3_),"(high_uniaxial_anisotropy, 0_MJ_/_m_3)","(0, 1)",1
+<QNT>_in_<Class>,high_value_in_Dy_free_Nd_Fe_B_sintered_magnet,"(high_value, Dy_free_Nd_Fe_B_sintered_magnet)","(1, 0)",1
+<QNT>_of_<QNT>,high_value_of_(_B_H_),"(high_value, (_B_H_))","(0, 1)",2
+<QNT>_of_<Value>,high_value_of_0_kA_m_-_1,"(high_value, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Value>,high_value_of_0_kJ_m_-_3,"(high_value, 0_kJ_m_-_3)","(0, 1)",1
+<QNT>_of_<Value>,high_value_of_0_kOe,"(high_value, 0_kOe)","(0, 1)",2
+<QNT>_of_<QNT>,high_value_of_coercivity,"(high_value, coercivity)","(0, 1)",3
+<QNT>_of_<QNT>,high_value_of_M,"(high_value, M)","(0, 1)",1
+<QNT>_of_<QNT>,high_value_of_maximum_energy_product_(_B_H_),"(high_value, maximum_energy_product_(_B_H_))","(0, 1)",2
+<QNT>_of_<QNT>,high_value_of_remanence,"(high_value, remanence)","(0, 1)",2
+<Fabrication>_at_<Fabrication>,hot_deformation_at_0_°C,"(hot_deformation, 0_°C)","(0, 1)",1
+<Fabrication>_of_<Fabrication>,hot_deformation_of_melt_spun,"(hot_deformation, melt_spun)","(1, 0)",1
+<Fabrication>_at_<Fabrication>,hot_deformed_at_0_°C,"(hot_deformed, 0_°C)","(0, 1)",2
+<Class>_be_<Value>,hot_deformed_magnet_be_~_0_MGOe,"(hot_deformed_magnet, ~_0_MGOe)","(0, 1)",1
+<Class>_be_<Value>,hot_deformed_magnet_be_0_T,"(hot_deformed_magnet, 0_T)","(0, 1)",1
+<Class>_be_<Value>,hot_deformed_magnet_be_around_0_T,"(hot_deformed_magnet, around_0_T)","(0, 1)",1
+<Fabrication>_at_<Fabrication>,hot_pressing_at_0_°C,"(hot_pressing, 0_°C)","(0, 1)",1
+<QNT>_(_<QNT>_),increase_coercivity_(_μ_H_),"(increase_coercivity, μ_H)","(0, 1)",1
+<QNT>_of_<Shape>,increase_coercivity_of_Nd_Fe_B_phase,"(increase_coercivity, Nd_Fe_B_phase)","(1, 0)",1
+<QNT>_of_<Value>,increase_in_coercivity_of_~_0_kA_m_-_1,"(increase_in_coercivity, ~_0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Value>,increase_in_coercivity_of_0_%,"(increase_in_coercivity, 0_%)","(0, 1)",1
+<QNT>_of_<Value>,increase_in_coercivity_of_0_kA_m_-_1,"(increase_in_coercivity, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Class>,increase_in_coercivity_of_M,"(increase_in_coercivity, M)","(1, 0)",1
+<QNT>_of_<Class>,increase_in_coercivity_of_quinternary_alloy,"(increase_in_coercivity, quinternary_alloy)","(1, 0)",1
+<QNT>_to_<Value>,increase_in_coercivity_to_0_T,"(increase_in_coercivity, 0_T)","(0, 1)",1
+<QNT>_for_<Element>,increment_in_coercivity_for_x_=_0,"(increment_in_coercivity, x_=_0)","(1, 0)",1
+<QNT>_of_<Value>,increment_in_coercivity_of_more_than_0_kOe,"(increment_in_coercivity, more_than_0_kOe)","(0, 1)",1
+<QNT>_(_<Value>_),intrinsic_coercivity_(_0_kA_m_-_1_),"(intrinsic_coercivity, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_(_<QNT>_),intrinsic_coercivity_(_H_),"(intrinsic_coercivity, H)","(0, 1)",5
+<QNT>_(_<QNT>_),intrinsic_coercivity_(_hci_),"(intrinsic_coercivity, hci)","(0, 1)",3
+<QNT>_(_<QNT>_)_and_<QNT>_(_<QNT>_)_be_found_to_be_<Value>_and_<Value>,intrinsic_coercivity_(_hci_)_and_maximum_energy_product_(_(_BH_)_max_)_be_found_to_be_0_kOe_and_0_MGOe,"(intrinsic_coercivity, hci, maximum_energy_product, (_BH_)_max, 0_kOe, 0_MGOe)","(0, 1), (1, 4), (2, 3), (3, 5)",1
+<QNT>_(_<QNT>_)_of_<Value>,intrinsic_coercivity_(_hci_)_of_0_kOe,"(intrinsic_coercivity, hci, 0_kOe)","(0, 1), (1, 2)",1
+<QNT>_at_<Condition>,intrinsic_coercivity_at_0_K,"(intrinsic_coercivity, 0_K)","(0, 1)",1
+<QNT>_be_<Value>,intrinsic_coercivity_be_0_kA_/_m,"(intrinsic_coercivity, 0_kA_/_m)","(0, 1)",2
+<QNT>_for_<Class>,intrinsic_coercivity_for_annealed_alloy,"(intrinsic_coercivity, annealed_alloy)","(1, 0)",1
+<QNT>_for_<Shape>,intrinsic_coercivity_for_sample_0,"(intrinsic_coercivity, sample_0)","(1, 0)",2
+<QNT>_=_<Value>,intrinsic_coercivity_H_=_0_kA_m_-_1,"(intrinsic_coercivity_H, 0_kA_m_-_1)","(0, 1)",2
+<QNT>_of_<Value>,intrinsic_coercivity_H_of_0_kOe,"(intrinsic_coercivity_H, 0_kOe)","(0, 1)",1
+<QNT>_of_<Class>,intrinsic_coercivity_H_of_as_cast_magnet,"(intrinsic_coercivity_H, as_cast_magnet)","(1, 0)",1
+<QNT>_of_<Class>,intrinsic_coercivity_of_(_Nd_Ce_)_Fe_Co_B,"(intrinsic_coercivity, (_Nd_Ce_)_Fe_Co_B)","(1, 0)",1
+<QNT>_of_<Shape>,intrinsic_coercivity_of_(_Nd_Ce_)_Fe_Co_B_melt_spun_ribbon,"(intrinsic_coercivity, (_Nd_Ce_)_Fe_Co_B_melt_spun_ribbon)","(1, 0)",1
+<QNT>_of_<Value>,intrinsic_coercivity_of_0_kA_/_m,"(intrinsic_coercivity, 0_kA_/_m)","(0, 1)",2
+<QNT>_of_<Value>,intrinsic_coercivity_of_0_kOe,"(intrinsic_coercivity, 0_kOe)","(0, 1)",3
+<QNT>_of_<Class>,intrinsic_coercivity_of_Nd_Fe_B_magnet,"(intrinsic_coercivity, Nd_Fe_B_magnet)","(1, 0)",1
+<QNT>_of_<QNT>,intrinsic_coercivity_of_μ_H,"(intrinsic_coercivity, μ_H)","(0, 1)",1
+<QNT>_reaches_as_high_as_<Value>,intrinsic_coercivity_reaches_as_high_as_0_kOe,"(intrinsic_coercivity, 0_kOe)","(0, 1)",1
+<QNT>_gradually_decreases_to_<Value>_at_<Shape>_and<Value>_at_<Shape>,it_gradually_decreases_to_0_kJ_m_-_3_at_N_=_0_and_0_kJ_m_-_3_at_N_=_0,"(it, 0_kJ_m_-_3, N_=_0, 0_kJ_m_-_3, N_=_0)","(0, 1), (1, 2), (0, 3), (3, 4)",1
+<QNT>_(_<Value>_),J_(_0_T_),"(J, 0_T)","(0, 1)",1
+<QNT>_=_<Value>,J_/_J_=_0,"(J_/_J, 0)","(0, 1)",1
+<QNT>_be_<Value>,K_be_0_kOe,"(K, 0_kOe)","(0, 1)",2
+<QNT>_for_<Class>,K_for_(_Nd_Ce_)_Fe_B,"(K, (_Nd_Ce_)_Fe_B)","(1, 0)",1
+<QNT>_for_<Class>,K_for_Nd_Fe_B,"(K, Nd_Fe_B)","(1, 0)",3
+<QNT>_for_<Class>,K_for_SmCo,"(K, SmCo)","(1, 0)",1
+<QNT>_for_<Element>,K_for_x_=_0,"(K, x_=_0)","(1, 0)",3
+<QNT>_in_<Shape>,K_in_Nd_Co_diffusion_processed_film,"(K, Nd_Co_diffusion_processed_film)","(1, 0)",1
+<QNT>_in_<Shape>,K_in_sample,"(K, sample)","(1, 0)",1
+<QNT>_of_<Class>,K_of_(_Nd_Ce_)_Fe_B,"(K, (_Nd_Ce_)_Fe_B)","(1, 0)",1
+<QNT>_to_<Value>,K_to_0_%_/_K,"(K, 0_%_/_K)","(0, 1)",1
+<QNT>_at_<Condition>,large_coercivity_at_room_temperature,"(large_coercivity, room_temperature)","(0, 1)",1
+<QNT>_of_<Value>,large_coercivity_of_0_kA_/_m,"(large_coercivity, 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,large_coercivity_of_0_kOe,"(large_coercivity, 0_kOe)","(0, 1)",1
+<QNT>_of_<Value>,large_coercivity_of_approximately_0_kA_/_m,"(large_coercivity, approximately_0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,large_energy_product_of_about_0_MGOe,"(large_energy_product, about_0_MGOe)","(0, 1)",1
+<QNT>_of_<QNT>,large_remanence_of_μ_M,"(large_remanence, μ_M)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,large_remanence_of_μ_M_=_0,"(large_remanence, μ_M, 0)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>,large_temperature_degradation_of_coercivity,"(large_temperature_degradation, coercivity)","(0, 1)",1
+<QNT>_of_<QNT>,large_temperature_dependence_of_anisotropy_field,"(large_temperature_dependence, anisotropy_field)","(0, 1)",1
+<QNT>_of_<QNT>,large_temperature_dependence_of_coercivity,"(large_temperature_dependence, coercivity)","(0, 1)",1
+<QNT>_of_<QNT>,large_value_of_4π_M,"(large_value, 4π_M)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,large_value_of_4π_M_=_0_kG,"(large_value, 4π_M, 0_kG)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_=_<Value>,large_value_of_H_=_0_kOe,"(large_value, H, 0_kOe)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_and_<QNT>,large_value_of_H_and_(_B_H_),"(large_value, H, (_B_H_))","(1, 0), (2, 0)",1
+<QNT>_of_<QNT>,large_value_of_intrinsic_coercivity_H,"(large_value, intrinsic_coercivity_H)","(0, 1)",1
+<QNT>_of_<QNT>_and_<QNT>,large_value_of_intrinsic_coercivity_H_and_maximum_energy_product_(_BH_),"(large_value, intrinsic_coercivity_H, maximum_energy_product_(_BH_))","(1, 0), (2, 0)",1
+<QNT>_of_<QNT>,large_value_of_J,"(large_value, J)","(0, 1)",1
+<QNT>_of_<QNT>_and_<QNT>,large_value_of_J_and_(_BH_),"(large_value, J, (_BH_))","(1, 0), (2, 0)",1
+<QNT>_(_<Value>_),low_(_BH_)_(_~_0_MGOe_),"(low_(_BH_), ~_0_MGOe)","(0, 1)",1
+<QNT>_for_<Class>,low_(_BH_)_for_nanocomposite_alloy,"(low_(_BH_), nanocomposite_alloy)","(1, 0)",1
+<QNT>_(_<Value>_),low_coercivity_(_0_Oe_),"(low_coercivity, 0_Oe)","(0, 1)",1
+<QNT>_(_<QNT>_=_<Value>_),low_coercivity_(_μ_H_=_0_T_),"(low_coercivity, μ_H, 0_T)","(0, 1), (1, 2)",1
+<QNT>_in_<Element>,low_coercivity_in_Pr,"(low_coercivity, Pr)","(1, 0)",1
+<QNT>_in_<Class>,low_coercivity_in_Pr_Cu,"(low_coercivity, Pr_Cu)","(1, 0)",1
+<QNT>_in_<Shape>,low_coercivity_in_Pr_Cu_diffusion_processed_sample,"(low_coercivity, Pr_Cu_diffusion_processed_sample)","(1, 0)",1
+<QNT>_in_<Shape>,low_coercivity_in_single_layer_film,"(low_coercivity, single_layer_film)","(1, 0)",1
+<QNT>_of_<Value>,low_coercivity_of_~_0_T,"(low_coercivity, ~_0_T)","(0, 1)",1
+<QNT>_of_<Value>,low_coercivity_of_0_kOe,"(low_coercivity, 0_kOe)","(0, 1)",2
+<QNT>_of_<Value>,low_coercivity_of_0_T,"(low_coercivity, 0_T)","(0, 1)",3
+<QNT>_of_<Value>,low_coercivity_of_about_0_T,"(low_coercivity, about_0_T)","(0, 1)",1
+<QNT>_of_<Class>,low_coercivity_of_hot_deformed_magnet,"(low_coercivity, hot_deformed_magnet)","(1, 0)",2
+<QNT>_(_<Value>_),M_(_0_kG_),"(M, 0_kG)","(0, 1)",1
+<QNT>_(_<Value>_),M_(_0_T_),"(M, 0_T)","(0, 1)",1
+<QNT>_=_<Value>,M_/_M_=_0,"(M_/_M, 0)","(0, 1)",7
+<QNT>_of_<Value>,M_/_M_of_0,"(M_/_M, 0)","(0, 1)",3
+<QNT>_=_<Value>,M_=_0_kG,"(M, 0_kG)","(0, 1)",1
+<QNT>_at_<Condition>,M_at_0_°C,"(M, 0_°C)","(0, 1)",1
+<QNT>_be_<QNT>,M_be_anisotropy_field,"(M, anisotropy_field)","(0, 1)",1
+<QNT>_be_<QNT>,M_be_saturation_magnetization,"(M, saturation_magnetization)","(0, 1)",1
+<QNT>_of_<Value>,M_of_0_T,"(M, 0_T)","(0, 1)",1
+<QNT>_of_<Shape>,M_of_ribbon,"(M, ribbon)","(1, 0)",1
+<QNT>_(_<Value>_),M_value_(_around_0_T_),"(M_value, around_0_T)","(0, 1)",1
+<QNT>_of_<Value>,M_value_of_0_emu_/_g,"(M_value, 0_emu_/_g)","(0, 1)",1
+<QNT>_of_<Shape>,M_value_of_film,"(M_value, film)","(1, 0)",1
+<QNT>_of_<Shape>,M_value_of_ribbon,"(M_value, ribbon)","(1, 0)",1
+<Class>_be_<Value>,magnet_be_0_kOe,"(magnet, 0_kOe)","(0, 1)",1
+<Class>_be_<Value>,magnet_be_0_MGOe,"(magnet, 0_MGOe)","(0, 1)",1
+<Class>_be_<Value>,magnet_be_about_0_T,"(magnet, about_0_T)","(0, 1)",1
+<Class>_with_<QNT>_of_<Value>,magnet_with_coercivity_of_0_kOe,"(magnet, coercivity, 0_kOe)","(0, 1), (1, 2)",1
+<Class>_with_<QNT>_of_<Value>,magnet_with_energy_product_of_0,"(magnet, energy_product, 0)","(0, 1), (1, 2)",1
+<Class>_with_<QNT>_of_<Value>,magnet_with_ratio_of_0_%,"(magnet, ratio, 0_%)","(0, 1), (1, 2)",1
+<QNT>_in_<Class>,magnetic_anisotropy_in_magnet,"(magnetic_anisotropy, magnet)","(1, 0)",2
+<QNT>_in_<Element>,magnetic_anisotropy_in_Sm,"(magnetic_anisotropy, Sm)","(1, 0)",1
+<QNT>_in_<Class>,magnetic_anisotropy_in_SmCo,"(magnetic_anisotropy, SmCo)","(1, 0)",1
+<QNT>_(_<Value>_),magnetic_energy_product_(_0_MG_Oe_),"(magnetic_energy_product, 0_MG_Oe)","(0, 1)",1
+<QNT>_(_<QNT>_),magnetic_energy_product_(_BH_),"(magnetic_energy_product, BH)","(0, 1)",2
+<Condition>_of_<Condition>,magnetic_field_of_0_kOe,"(magnetic_field, 0_kOe)","(0, 1)",1
+<Condition>_up_to_<Condition>,magnetic_field_up_to_0,"(magnetic_field, 0)","(0, 1)",1
+<Condition>_up_to_<Condition>,magnetic_field_up_to_0_T,"(magnetic_field, 0_T)","(0, 1)",1
+<QNT>_in_<Class>,magnetic_moment_in_α_Fe,"(magnetic_moment, α_Fe)","(1, 0)",1
+<QNT>_in_<Element>,magnetic_moment_in_α_Fe_grain,"(magnetic_moment, α_Fe_grain)","(1, 0)",1
+<QNT>_of_<Element>,magnetic_moment_of_Co_atom,"(magnetic_moment, Co_atom)","(1, 0)",1
+<QNT>_of_<Element>,magnetic_moment_of_Dy,"(magnetic_moment, Dy)","(1, 0)",1
+<QNT>_of_<Class>,magnetic_moment_of_Fe,"(magnetic_moment, Fe)","(1, 0)",2
+<QNT>_of_<Element>,magnetic_moment_of_Fe_atom,"(magnetic_moment, Fe_atom)","(1, 0)",1
+<QNT>_of_<Class>,magnetic_moment_of_Sm_Co,"(magnetic_moment, Sm_Co)","(1, 0)",2
+<QNT>_of_<QNT>,magnetic_polarization_of_μ_M,"(magnetic_polarization, μ_M)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,magnetic_polarization_of_μ_M_=_0_T,"(magnetic_polarization, μ_M, 0_T)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_=_<Value>_of_<Class>,magnetic_polarization_of_μ_M_=_0_T_of_nanocomposite,"(magnetic_polarization, μ_M, 0_T, nanocomposite)","(0, 1), (1, 2), (3, 0)",1
+<QNT>_of_<QNT>_=_<Value>_of_<Shape>,magnetic_polarization_of_μ_M_=_0_T_of_nanocomposite_film,"(magnetic_polarization, μ_M, 0_T, nanocomposite_film)","(0, 1), (1, 2), (3, 0)",1
+<QNT>_(_<QNT>_=_<Value>_),magnetization_(_4π_M_=_0_kG_),"(magnetization, 4π_M, 0_kG)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_),magnetization_(_Br_),"(magnetization, Br)","(0, 1)",1
+<QNT>_at_<Condition>,magnetization_at_0_T,"(magnetization, 0_T)","(0, 1)",1
+<QNT>_at_<Condition>,magnetization_at_applied_field,"(magnetization, applied_field)","(0, 1)",1
+<QNT>_decreases_from_<Value>_for_<Class>_to_<Value>_for_<Class>,magnetization_decreases_from_0_T_for_Pr_Fe_B_to_0_T_for_Pr_Fe_B,"(magnetization, 0_T, Pr_Fe_B, 0_T, Pr_Fe_B)","(0, 1), (1, 2), (0, 3), (3, 4)",1
+<QNT>_in_<Shape>,magnetization_in_ribbon,"(magnetization, ribbon)","(1, 0)",1
+<QNT>_of_<Value>,magnetization_of_0_emu_/_g,"(magnetization, 0_emu_/_g)","(0, 1)",1
+<QNT>_of_<Value>,magnetization_of_0_MA_/_m,"(magnetization, 0_MA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,magnetization_of_0_T,"(magnetization, 0_T)","(0, 1)",2
+<QNT>_of_<Shape>,magnetization_of_bulk,"(magnetization, bulk)","(1, 0)",1
+<QNT>_of_<Element>,magnetization_of_Fe,"(magnetization, Fe)","(1, 0)",2
+<QNT>_of_<Class>,magnetization_of_Fe_B,"(magnetization, Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,magnetization_of_Fe_layer,"(magnetization, Fe_layer)","(1, 0)",1
+<QNT>_of_<Shape>,magnetization_of_PrCo_phase,"(magnetization, PrCo_phase)","(1, 0)",1
+<QNT>_of_<Shape>,magnetization_of_ribbon,"(magnetization, ribbon)","(1, 0)",1
+<QNT>_of_<Shape>,magnetization_of_sample,"(magnetization, sample)","(1, 0)",1
+<QNT>_of_<Shape>,magnetization_of_soft_phase,"(magnetization, soft_phase)","(1, 0)",1
+<QNT>_(_<QNT>_),magnetocrystalline_anisotropy_(_H_),"(magnetocrystalline_anisotropy, H)","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Value>,magnetocrystalline_anisotropy_(_H_)_of_0_T,"(magnetocrystalline_anisotropy, H, 0_T)","(0, 1), (1, 2)",1
+<QNT>_at_<Condition>,magnetocrystalline_anisotropy_at_high_temperature,"(magnetocrystalline_anisotropy, high_temperature)","(0, 1)",1
+<QNT>_(_<QNT>_),magnetocrystalline_anisotropy_field_(_H_),"(magnetocrystalline_anisotropy_field, H)","(0, 1)",2
+<QNT>_of_<Class>,magnetocrystalline_anisotropy_field_of_La_Fe_B,"(magnetocrystalline_anisotropy_field, La_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,magnetocrystalline_anisotropy_field_of_Pr_Co_C,"(magnetocrystalline_anisotropy_field, Pr_Co_C)","(1, 0)",1
+<QNT>_of_<Shape>,magnetocrystalline_anisotropy_field_of_Pr_Co_C_phase,"(magnetocrystalline_anisotropy_field, Pr_Co_C_phase)","(1, 0)",1
+<QNT>_of_<Class>,magnetocrystalline_anisotropy_field_of_Pr_Fe_B,"(magnetocrystalline_anisotropy_field, Pr_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,magnetocrystalline_anisotropy_field_of_Pr_Fe_B_phase,"(magnetocrystalline_anisotropy_field, Pr_Fe_B_phase)","(1, 0)",1
+<QNT>_of_<Shape>,magnetocrystalline_anisotropy_of_0_:_0_:_0_phase,"(magnetocrystalline_anisotropy, 0_:_0_:_0_phase)","(1, 0)",1
+<QNT>_of_<Class>,magnetocrystalline_anisotropy_of_Ce_Fe_B,"(magnetocrystalline_anisotropy, Ce_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,magnetocrystalline_anisotropy_of_Dy_Fe_B_alloy,"(magnetocrystalline_anisotropy, Dy_Fe_B_alloy)","(1, 0)",1
+<QNT>_of_<Class>,magnetocrystalline_anisotropy_of_Nd_Fe_B_compound,"(magnetocrystalline_anisotropy, Nd_Fe_B_compound)","(1, 0)",1
+<QNT>_at_<Condition>,maximum_coercivity_at_room_temperature,"(maximum_coercivity, room_temperature)","(0, 1)",1
+<QNT>_of_<Value>,maximum_coercivity_of_0_kA_/_m,"(maximum_coercivity, 0_kA_/_m)","(0, 1)",2
+<QNT>_of_<QNT>,maximum_coercivity_of_D,"(maximum_coercivity, D)","(0, 1)",1
+<QNT>_of_<Value>,maximum_coercivity_value_of_0_kA_m_-_1,"(maximum_coercivity_value, 0_kA_m_-_1)","(0, 1)",2
+<QNT>_of_<Value>,maximum_coercivity_value_of_0_kOe,"(maximum_coercivity_value, 0_kOe)","(0, 1)",1
+<QNT>_of_<Value>,maximum_coercivity_value_of_approximately_0_kA_/_m,"(maximum_coercivity_value, approximately_0_kA_/_m)","(0, 1)",1
+<QNT>_(_<QNT>_),maximum_energy_product_(_(_BH_)_max_),"(maximum_energy_product, (_BH_)_max)","(0, 1)",3
+<QNT>_(_<Value>_),maximum_energy_product_(_0_kJ_m_-_3_),"(maximum_energy_product, 0_kJ_m_-_3)","(0, 1)",1
+<QNT>_(_<Value>_),maximum_energy_product_(_0_MGOe_),"(maximum_energy_product, 0_MGOe)","(0, 1)",1
+<QNT>_(_<Value>_),maximum_energy_product_(_BH_)_(_<_0_MGOe_),"(maximum_energy_product_(_BH_), <_0_MGOe)","(0, 1)",1
+<QNT>_=_<Value>,maximum_energy_product_(_BH_)_=_0_kJ_/_m_3,"(maximum_energy_product_(_BH_), 0_kJ_/_m_3)","(0, 1)",1
+<QNT>_be_<Value>,maximum_energy_product_(_BH_)_be_0_T,"(maximum_energy_product_(_BH_), 0_T)","(0, 1)",1
+<QNT>_for_<Element>,maximum_energy_product_(_BH_)_for_Dy,"(maximum_energy_product_(_BH_), Dy)","(1, 0)",1
+<QNT>_for_<Class>,maximum_energy_product_(_BH_)_for_Dy_substituted_alloy,"(maximum_energy_product_(_BH_), Dy_substituted_alloy)","(1, 0)",1
+<QNT>_for_<Class>,maximum_energy_product_(_BH_)_for_sintered_magnet,"(maximum_energy_product_(_BH_), sintered_magnet)","(1, 0)",1
+<QNT>_of_<Value>,maximum_energy_product_(_BH_)_of_0_kG,"(maximum_energy_product_(_BH_), 0_kG)","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Value>,maximum_energy_product_(_BH_)_of_0_kJ_/_m_3,"(maximum_energy_product, BH, 0_kJ_/_m_3)","(0, 1), (1, 2)",1
+<QNT>_of_<Value>,maximum_energy_product_(_BH_)_of_0_MG_Oe,"(maximum_energy_product_(_BH_), 0_MG_Oe)","(0, 1)",2
+<QNT>_of_<Value>_be_obtained_at_<Condition>,maximum_energy_product_(_BH_)_of_0_MG_Oe_be_obtained_at_0_K,"(maximum_energy_product_(_BH_), 0_MG_Oe, 0_K)","(0, 1), (1, 2)",1
+<QNT>_of_<Class>,maximum_energy_product_(_BH_)_of_Pr_Cu,"(maximum_energy_product_(_BH_), Pr_Cu)","(1, 0)",1
+<QNT>_of_<Shape>,maximum_energy_product_(_BH_)_of_Pr_Cu_diffusion_processed_sample,"(maximum_energy_product_(_BH_), Pr_Cu_diffusion_processed_sample)","(1, 0)",1
+<QNT>_of_<Class>,maximum_energy_product_(_BH_)_of_these_magnet,"(maximum_energy_product_(_BH_), these_magnet)","(1, 0)",1
+<QNT>_at_<Condition>,maximum_energy_product_at_room_temperature,"(maximum_energy_product, room_temperature)","(0, 1)",1
+<QNT>_for_<Class>,maximum_energy_product_for_Fe_B_Nd_Gd_Nb_Si_rod_magnet,"(maximum_energy_product, Fe_B_Nd_Gd_Nb_Si_rod_magnet)","(1, 0)",1
+<QNT>_in_<Class>,maximum_energy_product_in_nanocomposite,"(maximum_energy_product, nanocomposite)","(1, 0)",1
+<QNT>_of_<QNT>,maximum_energy_product_of_(_B_H_),"(maximum_energy_product, (_B_H_))","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,maximum_energy_product_of_(_B_H_)_=_0_kJ_/_m_3,"(maximum_energy_product, (_B_H_), 0_kJ_/_m_3)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_=_<Value>,maximum_energy_product_of_(_BH_)_=_0_kJ_/_m_3,"(maximum_energy_product, (_BH_), 0_kJ_/_m_3)","(0, 1), (1, 2)",3
+<QNT>_of_<QNT>_=_<Value>,maximum_energy_product_of_(_BH_)_=_0_MGOe,"(maximum_energy_product, (_BH_), 0_MGOe)","(0, 1), (1, 2)",2
+<QNT>_of_<Value>,maximum_energy_product_of_0_kJ,"(maximum_energy_product, 0_kJ)","(0, 1)",1
+<QNT>_of_<Value>,maximum_energy_product_of_0_kJ_/_m_3,"(maximum_energy_product, 0_kJ_/_m_3)","(0, 1)",3
+<QNT>_of_<Value>,maximum_energy_product_of_0_MG_Oe,"(maximum_energy_product, 0_MG_Oe)","(0, 1)",2
+<QNT>_of_<QNT>,maximum_energy_product_of_H,"(maximum_energy_product, H)","(1, 0)",1
+<QNT>_of_<Class>,maximum_energy_product_of_HD_magnet,"(maximum_energy_product, HD_magnet)","(1, 0)",1
+<QNT>_of_<Class>,maximum_energy_product_of_hot_deformed_magnet,"(maximum_energy_product, hot_deformed_magnet)","(1, 0)",1
+<QNT>_of_<QNT>,maximum_energy_product_of_M,"(maximum_energy_product, M)","(0, 1)",1
+<QNT>_of_<Shape>,maximum_energy_product_of_Mn,"(maximum_energy_product, Mn)","(1, 0)",1
+<QNT>_of_<Class>,maximum_energy_product_of_MnBi,"(maximum_energy_product, MnBi)","(1, 0)",1
+<QNT>_of_<Class>,maximum_energy_product_of_nanocomposite,"(maximum_energy_product, nanocomposite)","(1, 0)",1
+<QNT>_of_<Shape>,maximum_energy_product_of_powder,"(maximum_energy_product, powder)","(1, 0)",1
+<QNT>_of_<Class>,maximum_energy_product_of_Pr_Fe_C_nanocomposite,"(maximum_energy_product, Pr_Fe_C_nanocomposite)","(1, 0)",1
+<QNT>_up_to_<Value>,maximum_energy_product_up_to_0_kJ_/_m_3,"(maximum_energy_product, 0_kJ_/_m_3)","(0, 1)",1
+<QNT>_up_to_<Value>,maximum_energy_product_up_to_0_MG_Oe,"(maximum_energy_product, 0_MG_Oe)","(0, 1)",1
+<QNT>_(_<QNT>_),maximum_magnetic_energy_product_(_(_JH_)_),"(maximum_magnetic_energy_product, (_JH_))","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Value>,maximum_magnetic_energy_product_(_(_JH_)_)_of_0_MGOe,"(maximum_magnetic_energy_product, (_JH_), 0_MGOe)","(0, 1), (1, 2)",1
+<QNT>_of_<Value>,maximum_magnetic_energy_product_of_0_MGOe,"(maximum_magnetic_energy_product, 0_MGOe)","(0, 1)",1
+<QNT>_of_<Value>_be_obtained_at_<Condition>,maximum_magnetic_energy_product_of_0_MGOe_be_obtained_at_room_temperature,"(maximum_magnetic_energy_product, 0_MGOe, room_temperature)","(0, 1), (1, 2)",1
+<QNT>_of_<Value>,maximum_saturation_magnetization_of_0_emu_/_g,"(maximum_saturation_magnetization, 0_emu_/_g)","(0, 1)",1
+<QNT>_be_<Value>,maximum_value_be_0_kOe,"(maximum_value, 0_kOe)","(0, 1)",1
+<QNT>_be_<Value>,maximum_value_be_0_MG_Oe,"(maximum_value, 0_MG_Oe)","(0, 1)",1
+<QNT>_of_<Value>,maximum_value_of_0,"(maximum_value, 0)","(0, 1)",1
+<QNT>_of_<Value>,maximum_value_of_0_±_0_T,"(maximum_value, 0_±_0_T)","(0, 1)",2
+<QNT>_of_<Value>,maximum_value_of_0_MG_Oe,"(maximum_value, 0_MG_Oe)","(0, 1)",1
+<QNT>_of_<QNT>,maximum_value_of_coercivity,"(maximum_value, coercivity)","(0, 1)",2
+<Fabrication>_at_<Fabrication>,melt_spun_at_wheel_speed,"(melt_spun, wheel_speed)","(0, 1)",1
+<Shape>_with_<QNT>_of_<Value>,melt_spun_Nd_Co_B_ribbon_with_coercivity_of_0_T,"(melt_spun_Nd_Co_B_ribbon, coercivity, 0_T)","(0, 1), (1, 2)",1
+<Shape>_(_<Shape>_),melt_spun_ribbon_(_0_0_nm_),"(melt_spun_ribbon, 0_0_nm)","(0, 1)",1
+<Element>_of_<Element>,Mn_substitution_of_Fe,"(Mn_substitution, Fe)","(0, 1)",1
+<Shape>_with_<QNT>_of_<Value>,MnBi_powder_with_coercivity_of_about_0_T,"(MnBi_powder, coercivity, about_0_T)","(0, 1), (1, 2)",1
+<QNT>_of_<Value>,Ms_of_0_kG,"(Ms, 0_kG)","(0, 1)",1
+<Shape>_(_<Shape>_),multilayer_film_(_N_=_0_),"(multilayer_film, N_=_0)","(0, 1)",2
+<Class>_with_<QNT>_of_<Value>,Nb_substituted_Pr_Fe_Nb_B_magnet_with_coercivity_of_0_T,"(Nb_substituted_Pr_Fe_Nb_B_magnet, coercivity, 0_T)","(0, 1), (1, 2)",1
+<Element>_(_<Element>_),Nd_(_0_at_._%_),"(Nd, 0_at_._%)","(0, 1)",1
+<Element>_(_<Element>_),Nd_(_0_wt_%_),"(Nd, 0_wt_%)","(0, 1)",1
+<Element>_(_<Element>_),Nd_(_Cu_),"(Nd, Cu)","(0, 1)",1
+<Element>_of_<Element>,Nd_content_of_0_at_._%,"(Nd_content, 0_at_._%)","(0, 1)",3
+<Treatment>_and_<Treatment>,Nd_Cu_and_Pr_Cu,"(Nd_Cu, Pr_Cu)","(0, 1)",3
+<Treatment>_and_<Treatment>,Nd_Cu_and_Pr_Cu_alloy,"(Nd_Cu, Pr_Cu_alloy)","(0, 1)",1
+<Shape>_be_<Value>,Nd_Fe_B_film_be_approximately_0_kA_/_m,"(Nd_Fe_B_film, approximately_0_kA_/_m)","(0, 1)",1
+<Shape>_(_<Shape>_),Nd_Fe_B_Ga_Nb_powder_(_0_μm_),"(Nd_Fe_B_Ga_Nb_powder, 0_μm)","(0, 1)",1
+<Class>_with_<QNT>_of_<Value>,Nd_Fe_B_magnet_with_coercivity_of_0_kOe,"(Nd_Fe_B_magnet, coercivity, 0_kOe)","(0, 1), (1, 2)",1
+<Class>_with_<QNT>_of_<Value>,Nd_Fe_B_magnet_with_high_coercivity_of_0_T,"(Nd_Fe_B_magnet, high_coercivity, 0_T)","(0, 1), (1, 2)",1
+<Shape>_with_<QNT>_of_<Value>,Nd_Fe_B_magnetic_powder_with_high_coercivity_of_0_kA_/_m,"(Nd_Fe_B_magnetic_powder, high_coercivity, 0_kA_/_m)","(0, 1), (1, 2)",1
+<Class>_with_<QNT>_of_<Value>,Nd_Fe_B_sintered_magnet_with_high_remanence_of_~_0_T,"(Nd_Fe_B_sintered_magnet, high_remanence, ~_0_T)","(0, 1), (1, 2)",1
+<Class>_with_<QNT>_of_<Value>,Nd_Pr_Fe_B_Ga_Cu_sintered_magnet_with_coercivity_of_0_kOe,"(Nd_Pr_Fe_B_Ga_Cu_sintered_magnet, coercivity, 0_kOe)","(0, 1), (1, 2)",1
+<Condition>_of_<Condition>,operation_temperature_of_~_0_K,"(operation_temperature, ~_0_K)","(0, 1)",1
+<Condition>_of_<Condition>,operation_temperature_of_0_°C,"(operation_temperature, 0_°C)","(0, 1)",1
+<Treatment>_and_<Treatment>,optimum_diffusion_temperature_and_time,"(optimum_diffusion_temperature, time)","(0, 1)",2
+<Treatment>_at_<Treatment>,post_sintering_thermal_treatment_at_0_°C,"(post_sintering_thermal_treatment, 0_°C)","(0, 1)",1
+<Treatment>_and_<Treatment>,Pr_Cu_and_Dy_Cu,"(Pr_Cu, Dy_Cu)","(0, 1)",2
+<Class>_with_<QNT>_of_<Value>,PrCo_Ti_alloy_with_energy_product_of_0_MGOe,"(PrCo_Ti_alloy, energy_product, 0_MGOe)","(0, 1), (1, 2)",1
+<Fabrication>_of_<Fabrication>,processing_condition_of_melt_spinning,"(processing_condition, melt_spinning)","(1, 0)",1
+<Fabrication>_of_<Fabrication>,processing_temperature_of_0_°C,"(processing_temperature, 0_°C)","(1, 0)",1
+<Fabrication>_by_<Fabrication>,produced_by_ball_milling,"(produced, ball_milling)","(0, 1)",1
+<Fabrication>_by_<Fabrication>,produced_by_melt_spinning_process,"(produced, melt_spinning_process)","(0, 1)",1
+<Fabrication>_by_<Fabrication>,produced_by_melt_spinning_technique,"(produced, melt_spinning_technique)","(0, 1)",1
+<Fabrication>_by_<Fabrication>,produced_by_SPS_method,"(produced, SPS_method)","(0, 1)",3
+<QNT>_of_<Value>,produced_remanence_of_0_T,"(produced_remanence, 0_T)","(0, 1)",1
+<Element>_of_<Element>,rare_earth_content_of_0_at_%,"(rare_earth_content, 0_at_%)","(0, 1)",1
+<Element>_(_<Element>_),rare_earth_element_(_RE_),"(rare_earth_element, RE)","(0, 1)",1
+<QNT>_of_<QNT>,ratio_of_(_B_H_),"(ratio, (_B_H_))","(0, 1)",1
+<QNT>_of_<QNT>,ratio_of_M,"(ratio, M)","(0, 1)",1
+<Element>_(_<Element>_),RE_(_rare_earth_),"(RE, rare_earth)","(0, 1)",1
+<Element>_of_<Element>,RE_content_of_0_at_%,"(RE_content, 0_at_%)","(0, 1)",1
+<Shape>_(_<Shape>_),RE_rich_grain_boundary_(_GB_),"(RE_rich_grain_boundary, GB)","(0, 1)",3
+<Class>_be_<Value>,recycled_magnet_be_0_%_/_K,"(recycled_magnet, 0_%_/_K)","(0, 1)",1
+<Class>_with_<QNT>_of_<Value>,recycled_magnet_with_B_of_0_kG,"(recycled_magnet, B, 0_kG)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_)_of_<Value>,remanence_(_B_)_of_0_G,"(remanence, B, 0_G)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_)_of_<Value>_(_<Value>_),remanence_(_B_)_of_0_G_(_0_T_),"(remanence, B, 0_G, 0_T)","(0, 1), (1, 2), (2, 3)",1
+<QNT>_(_<QNT>_)_of_<Value>,remanence_(_B_)_of_0_kG,"(remanence, B, 0_kG)","(0, 1), (1, 2)",2
+<QNT>_(_<QNT>_=_<Value>_),remanence_(_B_=_0_0_T_),"(remanence, B, 0_0_T)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_=_<Value>_),remanence_(_M_=_0_emu_/_g_),"(remanence, M, 0_emu_/_g)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_),remanence_(_μ_M_),"(remanence, μ_M)","(0, 1)",1
+<QNT>_and_<QNT>_be_<Value>_and_<Value>,remanence_and_(_B_H_)_be_0_T_and_0_kJ_/_m_3,"(remanence, (_B_H_), 0_T, 0_kJ_/_m_3)","(0, 2), (1, 3)",1
+<QNT>_at_<Condition>,remanence_at_temperature_T,"(remanence, temperature_T)","(0, 1)",1
+<QNT>_of_<Value>,remanence_B_of_0_kG,"(remanence_B, 0_kG)","(0, 1)",1
+<QNT>_be_<Value>,remanence_be_0_emu_/_g,"(remanence, 0_emu_/_g)","(0, 1)",1
+<QNT>_for_<Element>,remanence_for_0_wt_._%_Dy,"(remanence, 0_wt_._%_Dy)","(1, 0)",1
+<QNT>_in_<Element>,remanence_in_Nd,"(remanence, Nd)","(1, 0)",1
+<QNT>_=_<Value>,remanence_J_=_0_T,"(remanence_J, 0_T)","(0, 1)",1
+<QNT>_of_<Value>,remanence_of_~_0_T,"(remanence, ~_0_T)","(0, 1)",1
+<QNT>_of_<Value>,remanence_of_0_±_0_T,"(remanence, 0_±_0_T)","(0, 1)",1
+<QNT>_of_<Value>,remanence_of_0_0_T,"(remanence, 0_0_T)","(0, 1)",1
+<QNT>_of_<Value>,remanence_of_0_emu_/_g,"(remanence, 0_emu_/_g)","(0, 1)",1
+<QNT>_of_<QNT>,remanence_of_B,"(remanence, B)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,remanence_of_B_=_0_T,"(remanence, B, 0_T)","(0, 1), (1, 2)",1
+<QNT>_of_<Class>,remanence_of_HD_magnet,"(remanence, HD_magnet)","(1, 0)",1
+<QNT>_of_<Class>,remanence_of_isotropic_magnet,"(remanence, isotropic_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,remanence_of_modified_HDDR_Nd_Fe_Nb_Al_Cu_Ga_B_powder,"(remanence, modified_HDDR_Nd_Fe_Nb_Al_Cu_Ga_B_powder)","(1, 0)",1
+<QNT>_of_<Class>,remanence_of_Nd_Dy_Al_diffusion_processed_hot_deformed_magnet,"(remanence, Nd_Dy_Al_diffusion_processed_hot_deformed_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,remanence_of_ribbon,"(remanence, ribbon)","(1, 0)",1
+<QNT>_of_<Shape>,remanence_of_sample,"(remanence, sample)","(1, 0)",1
+<QNT>_of_<Class>,remanence_of_these_magnet,"(remanence, these_magnet)","(1, 0)",1
+<QNT>_of_<QNT>,remanence_of_μ_M,"(remanence, μ_M)","(0, 1)",2
+<QNT>_of_<QNT>_=_<Value>,remanence_of_μ_M_=_0_T,"(remanence, μ_M, 0_T)","(0, 1), (1, 2)",2
+<QNT>_(_<QNT>_),remanence_ratio_(_M_/_M_),"(remanence_ratio, M_/_M)","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Value>,remanence_ratio_(_M_/_M_)_of_0,"(remanence_ratio, M_/_M, 0)","(0, 1), (1, 2)",1
+<QNT>_of_<Value>,remanence_ratio_M_/_M_of_0,"(remanence_ratio_M_/_M, 0)","(0, 1)",1
+<QNT>_of_<Value>,remanence_ratio_M_/_M_of_up_to_0,"(remanence_ratio_M_/_M, up_to_0)","(0, 1)",1
+<QNT>_of_<Value>,remanence_ratio_of_0,"(remanence_ratio, 0)","(0, 1)",1
+<QNT>_of_<QNT>,remanence_ratio_of_M_/_M,"(remanence_ratio, M_/_M)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,remanence_ratio_of_M_/_M_=_0,"(remanence_ratio, M_/_M, 0)","(0, 1), (1, 2)",1
+<QNT>_reduces_drastically_to_<Value>,remanence_reduces_drastically_to_0_kG,"(remanence, 0_kG)","(0, 1)",1
+<QNT>_(_<QNT>_),remanence_temperature_coefficient_(_α_),"(remanence_temperature_coefficient, α)","(0, 1)",1
+<QNT>_of_<Value>,remanence_value_of_0_T,"(remanence_value, 0_T)","(0, 1)",3
+<QNT>_of_<Class>,remanence_value_of_Nd_Dy_Al,"(remanence_value, Nd_Dy_Al)","(1, 0)",1
+<QNT>_of_<Class>,remanence_value_of_Pr_Fe_B,"(remanence_value, Pr_Fe_B)","(1, 0)",2
+<QNT>_of_<Shape>,remanence_value_of_Pr_Fe_B_/_α_Fe_film,"(remanence_value, Pr_Fe_B_/_α_Fe_film)","(1, 0)",1
+<QNT>_of_<Shape>,remanence_value_of_Pr_Fe_B_thick_film,"(remanence_value, Pr_Fe_B_thick_film)","(1, 0)",1
+<QNT>_(_<QNT>_),remanent_magnetization_(_μ_M_),"(remanent_magnetization, μ_M)","(0, 1)",1
+<QNT>_(_<QNT>_=_<Value>_),remanent_magnetization_(_μ_M_=_0_T_),"(remanent_magnetization, μ_M, 0_T)","(0, 1), (1, 2)",1
+<QNT>_of_<Value>,remanent_magnetization_of_0_emu_/_g,"(remanent_magnetization, 0_emu_/_g)","(0, 1)",2
+<QNT>_of_<Class>,remanent_magnetization_of_hot_deformed_magnet,"(remanent_magnetization, hot_deformed_magnet)","(1, 0)",1
+<QNT>_of_<Value>,remanent_polarization_of_0_T,"(remanent_polarization, 0_T)","(0, 1)",2
+<QNT>_of_<Shape>,remanent_polarization_of_sample,"(remanent_polarization, sample)","(1, 0)",1
+<Shape>_with_<QNT>_of_<Value>,ribbon_with_coercivity_of_0_T,"(ribbon, coercivity, 0_T)","(0, 1), (1, 2)",2
+<Shape>_with_<QNT>_of_<Value>,ribbon_with_energy_product_of_about_0_MGOe,"(ribbon, energy_product, about_0_MGOe)","(0, 1), (1, 2)",1
+<QNT>_=_<Value>,room_temperature_(_BH_)_=_0_MGOe,"(room_temperature_(_BH_), 0_MGOe)","(0, 1)",1
+<QNT>_be_<Value>,room_temperature_coercivity_be_about_0_T,"(room_temperature_coercivity, about_0_T)","(0, 1)",1
+<QNT>_of_<Value>,room_temperature_coercivity_of_0_T,"(room_temperature_coercivity, 0_T)","(0, 1)",1
+<QNT>_of_<QNT>_(_<QNT>_),room_temperature_value_of_maximum_energy_product_(_BH_),"(room_temperature_value, maximum_energy_product, BH)","(1, 0)",1
+<QNT>_of_<QNT>,room_temperature_value_of_maximum_energy_product_(_BH_)_max,"(room_temperature_value, maximum_energy_product_(_BH_)_max)","(0, 1)",1
+<Shape>_be_<Value>,sample_be_about_0_T,"(sample, about_0_T)","(0, 1)",1
+<Shape>_be_<Value>,sample_be_approximately_0_kA_/_m,"(sample, approximately_0_kA_/_m)","(0, 1)",1
+<Fabrication>_with_<Condition>,sample_cast_with_0_kOe_magnetic_field,"(sample_cast, 0_kOe_magnetic_field)","(0, 1)",1
+<QNT>_(_<QNT>_),saturation_induction_density_(_B_),"(saturation_induction_density, B)","(0, 1)",1
+<QNT>_(_<QNT>_)_of_<Value>,saturation_induction_density_(_B_)_of_0_G,"(saturation_induction_density, B, 0_G)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_)_of_<Value>_(_<Value>_),saturation_induction_density_(_B_)_of_0_G_(_0_T_),"(saturation_induction_density, B, 0_G, 0_T)","(0, 1), (1, 2), (2, 3)",1
+<QNT>_=_<Value>,saturation_magnetic_polarization_J_=_0_T,"(saturation_magnetic_polarization_J, 0_T)","(0, 1)",1
+<QNT>_(_<QNT>_),saturation_magnetization_(_4π_M_),"(saturation_magnetization, 4π_M)","(0, 1)",1
+<QNT>_(_<QNT>_),saturation_magnetization_(_4πM_),"(saturation_magnetization, 4πM)","(0, 1)",1
+<QNT>_(_<QNT>_=_<Value>_),saturation_magnetization_(_4πM_=_0_kG_),"(saturation_magnetization, 4πM, 0_kG)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_=_<Value>_),saturation_magnetization_(_J_=_0_T_),"(saturation_magnetization, J, 0_T)","(0, 1), (1, 2)",1
+<QNT>_to_<Value>,saturation_magnetization_4πM_to_0_kG,"(saturation_magnetization_4πM, 0_kG)","(0, 1)",1
+<QNT>_of_<Value>,saturation_magnetization_M_of_0_T,"(saturation_magnetization_M, 0_T)","(0, 1)",1
+<QNT>_of_<Shape>,saturation_magnetization_of_0_:_0_:_0_phase,"(saturation_magnetization, 0_:_0_:_0_phase)","(1, 0)",1
+<QNT>_of_<Value>,saturation_magnetization_of_0_emu_/_g,"(saturation_magnetization, 0_emu_/_g)","(0, 1)",1
+<QNT>_of_<QNT>,saturation_magnetization_of_M,"(saturation_magnetization, M)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,saturation_magnetization_of_M_=_0_T,"(saturation_magnetization, M, 0_T)","(0, 1), (1, 2)",1
+<QNT>_of_<Class>,saturation_magnetization_of_Nd_Fe_B_magnet,"(saturation_magnetization, Nd_Fe_B_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,saturation_magnetization_of_sample,"(saturation_magnetization, sample)","(1, 0)",1
+<QNT>_of_<Class>,saturation_of_magnet,"(saturation, magnet)","(1, 0)",5
+<Fabrication>_for_<Fabrication>,sintered_for_0_h,"(sintered, 0_h)","(0, 1)",2
+<Class>_be_<Value>,sintered_magnet_be_0_T,"(sintered_magnet, 0_T)","(0, 1)",1
+<Class>_be_<Value>,sintered_magnet_be_about_0_T,"(sintered_magnet, about_0_T)","(0, 1)",2
+<Fabrication>_of_<Fabrication>,sintering_temperature_of_0_°C,"(sintering_temperature, 0_°C)","(1, 0)",3
+<Shape>_with_<QNT>_of_<Value>,Sm_Fe_Cu_Si_C_ribbon_with_coercivity_of_0_T,"(Sm_Fe_Cu_Si_C_ribbon, coercivity, 0_T)","(0, 1), (1, 2)",1
+<Class>_with_<QNT>_of_<Value>,Sm_Fe_N_(_C_)_with_curie_temperature_of_T,"(Sm_Fe_N_(_C_), curie_temperature, T)","(0, 1), (1, 2)",1
+<Shape>_with_<QNT>_of_<Value>,Sm_Fe_N_ribbon_with_room_temperature_coercivity_of_0_T,"(Sm_Fe_N_ribbon, room_temperature_coercivity, 0_T)","(0, 1), (1, 2)",1
+<Shape>_be_<Value>,SmCo_Fe_ribbon_be_0_T,"(SmCo_Fe_ribbon, 0_T)","(0, 1)",1
+<Shape>_(_<Shape>_),soft_magnetic_phase_(_α_Fe_),"(soft_magnetic_phase, α_Fe)","(0, 1)",1
+<QNT>_(_<QNT>_),squareness_(_M_/_M_),"(squareness, M_/_M)","(0, 1)",1
+<QNT>_for_<Class>,squareness_for_annealed_alloy,"(squareness, annealed_alloy)","(1, 0)",1
+<QNT>_(_<Value>_),stored_magnetic_energy_(_about_0_kJ_/_m_3_),"(stored_magnetic_energy, about_0_kJ_/_m_3)","(0, 1)",1
+<Shape>_with_<QNT>_of_<Value>,structure_with_coercivity_of_0_Oe,"(structure, coercivity, 0_Oe)","(0, 1), (1, 2)",1
+<Element>_(_<Element>_),substitution_(_0_at_._%_),"(substitution, 0_at_._%)","(0, 1)",3
+<Element>_of_<Element>,substitution_of_0_at_._%,"(substitution, 0_at_._%)","(0, 1)",1
+<Element>_of_<Element>,substitution_of_0_wt_._%,"(substitution, 0_wt_._%)","(0, 1)",1
+<Element>_of_<Element>,substitution_of_B,"(substitution, B)","(0, 1)",1
+<Element>_of_<Element>,substitution_of_Co,"(substitution, Co)","(0, 1)",3
+<Element>_of_<Element>,substitution_of_Cu,"(substitution, Cu)","(0, 1)",2
+<Element>_of_<Element>,substitution_of_Fe,"(substitution, Fe)","(0, 1)",2
+<Element>_of_<Element>,substitution_of_Fe_3_+_ion,"(substitution, Fe_3_+_ion)","(0, 1)",1
+<Element>_of_<Element>,substitution_of_heavy_rare_earth_element,"(substitution, heavy_rare_earth_element)","(0, 1)",1
+<Element>_of_<Element>,substitution_of_La,"(substitution, La)","(0, 1)",4
+<Element>_of_<Element>,substitution_of_Mn,"(substitution, Mn)","(0, 1)",1
+<Element>_of_<Element>,substitution_of_Mo,"(substitution, Mo)","(0, 1)",2
+<Element>_of_<Element>,substitution_of_Pr,"(substitution, Pr)","(0, 1)",2
+<Element>_of_<Element>,substitution_of_R,"(substitution, R)","(0, 1)",1
+<Element>_of_<Element>,substitution_of_Ti,"(substitution, Ti)","(0, 1)",2
+<Element>_of_<Element>,substitution_of_Y,"(substitution, Y)","(0, 1)",1
+<Fabrication>_of_<Fabrication>,substrate_temperature_of_0_°C,"(substrate_temperature, 0_°C)","(1, 0)",1
+<Shape>_be_<Value>,surface_be_0_kA_/_m,"(surface, 0_kA_/_m)","(0, 1)",1
+<QNT>_~_<Value>,T_~_0_K,"(T, 0_K)","(0, 1)",1
+<QNT>_for_<Shape>,T_for_grain_size,"(T, grain_size)","(1, 0)",2
+<QNT>_in_<Class>,T_in_recycled_magnet,"(T, recycled_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,T_of_0_:_0_:_0_phase,"(T, 0_:_0_:_0_phase)","(1, 0)",1
+<QNT>_of_<Shape>,T_of_GB_phase,"(T, GB_phase)","(1, 0)",2
+<QNT>_(_<QNT>_)_of_<Value>,temperature_(_BH_)_of_0_MGOe,"(temperature, BH, 0_MGOe)","(0, 1), (1, 2)",1
+<QNT>_(_<QNT>_=_<Value>_),temperature_(_T_=_0_°C_),"(temperature, T, 0_°C)","(0, 1), (1, 2)",1
+<Treatment>_and_<Treatment>,temperature_and_thermal_annealing,"(temperature, thermal_annealing)","(0, 1)",1
+<Treatment>_at_<Treatment>,temperature_at_0_0_°C,"(temperature, 0_0_°C)","(0, 1)",1
+<QNT>_be_<Value>,temperature_be_~_0_T,"(temperature, ~_0_T)","(0, 1)",1
+<QNT>_be_<Value>,temperature_be_0_kA_/_m,"(temperature, 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,temperature_coefficient_of_0_%_°C_-_1,"(temperature_coefficient, 0_%_°C_-_1)","(0, 1)",1
+<QNT>_of_<QNT>_(_<QNT>_),temperature_coefficient_of_Br_(_α_),"(temperature_coefficient, Br, α)","(1, 0)",2
+<QNT>_of_<QNT>_(_<QNT>_),temperature_coefficient_of_coercivity_(_β_),"(temperature_coefficient, coercivity, β)","(1, 0)",2
+<QNT>_of_<QNT>_and_<QNT>,temperature_coefficient_of_coercivity_and_remanence,"(temperature_coefficient, coercivity, remanence)","(1, 0), (2, 0)",2
+<QNT>_of_<QNT>,temperature_coefficient_of_hci,"(temperature_coefficient, hci)","(0, 1)",1
+<QNT>_of_<QNT>_(_<QNT>_),temperature_coefficient_of_hci_(_β_),"(temperature_coefficient, hci, β)","(1, 0)",1
+<QNT>_of_<QNT>,temperature_coefficient_of_intrinsic_coercivity,"(temperature_coefficient, intrinsic_coercivity)","(0, 1)",1
+<QNT>_of_<Class>,temperature_coefficient_of_magnet,"(temperature_coefficient, magnet)","(1, 0)",1
+<QNT>_of_<Value>,temperature_coefficient_β_of_0_%_K_-_1,"(temperature_coefficient_β, 0_%_K_-_1)","(0, 1)",1
+<QNT>_of_<QNT>,temperature_dependence_of_anisotropy_field,"(temperature_dependence, anisotropy_field)","(0, 1)",1
+<QNT>_of_<QNT>,temperature_dependence_of_D,"(temperature_dependence, D)","(0, 1)",1
+<QNT>_of_<QNT>,temperature_dependence_of_Fe_magnetic_moment,"(temperature_dependence, Fe_magnetic_moment)","(0, 1)",1
+<QNT>_of_<QNT>,temperature_dependence_of_H,"(temperature_dependence, H)","(0, 1)",1
+<QNT>_of_<Class>,temperature_dependence_of_magnet,"(temperature_dependence, magnet)","(1, 0)",2
+<QNT>_of_<QNT>,temperature_dependence_of_magnetization,"(temperature_dependence, magnetization)","(0, 1)",1
+<QNT>_of_<QNT>,temperature_dependence_of_magnetocrystalline_anisotropy_field,"(temperature_dependence, magnetocrystalline_anisotropy_field)","(0, 1)",1
+<QNT>_of_<QNT>,temperature_dependence_of_remanence,"(temperature_dependence, remanence)","(0, 1)",1
+<QNT>_of_<QNT>_and_<QNT>,temperature_dependence_of_remanence_and_coercivity,"(temperature_dependence, remanence, coercivity)","(1, 0), (2, 0)",1
+<QNT>_of_<QNT>,temperature_dependence_of_remnant_magnetization,"(temperature_dependence, remnant_magnetization)","(0, 1)",1
+<QNT>_of_<QNT>,temperature_dependence_of_μ_H,"(temperature_dependence, μ_H)","(0, 1)",1
+<QNT>_of_<Value>,temperature_of_~_0_K,"(temperature, ~_0_K)","(0, 1)",1
+<QNT>_of_<Class>,temperature_of_nanocomposite,"(temperature, nanocomposite)","(1, 0)",1
+<QNT>_of_<Shape>,temperature_of_nanocomposite_film,"(temperature, nanocomposite_film)","(1, 0)",1
+<QNT>_of_<Shape>,temperature_of_Nd_Pr_Fe_B_melt_spun_powder,"(temperature, Nd_Pr_Fe_B_melt_spun_powder)","(1, 0)",1
+<QNT>_of_<Shape>,temperature_of_ribbon,"(temperature, ribbon)","(1, 0)",1
+<Fabrication>_of_<Fabrication>,temperature_of_TbF_EPD_coated_sintered_Nd_Fe_B_magnet,"(temperature, TbF_EPD_coated_sintered_Nd_Fe_B_magnet)","(1, 0)",1
+<Condition>_of_<Condition>,temperature_range_of_0_0_°C,"(temperature_range, 0_0_°C)","(0, 1)",1
+<QNT>_up_to_<Value>,temperature_up_to_0_°C,"(temperature, 0_°C)","(0, 1)",2
+<QNT>_up_to_<Value>,temperature_up_to_about_0_°C,"(temperature, about_0_°C)","(0, 1)",1
+<QNT>_(_<Value>_),that_(_0_MGOe_),"(that, 0_MGOe)","(0, 1)",1
+<QNT>_~_<Value>,that_~_0_kA_m_-_1,"(that, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_for_<Class>,that_for_MRE_Fe_B_Zr_alloy,"(that, MRE_Fe_B_Zr_alloy)","(1, 0)",1
+<QNT>_for_<Class>,that_for_Nd_Fe_Al_system,"(that, Nd_Fe_Al_system)","(1, 0)",1
+<QNT>_for_<Class>,that_for_Nd_Fe_B_/_FeCo,"(that, Nd_Fe_B_/_FeCo)","(1, 0)",1
+<QNT>_for_<Class>,that_for_Sm_Co,"(that, Sm_Co)","(1, 0)",1
+<QNT>_of_<Value>,that_of_0_kA_/_m,"(that, 0_kA_/_m)","(0, 1)",1
+<QNT>_of_<Value>,that_of_0_kOe,"(that, 0_kOe)","(0, 1)",1
+<QNT>_of_<Value>,that_of_0_m_/_s,"(that, 0_m_/_s)","(0, 1)",1
+<QNT>_of_<Value>,that_of_0_T,"(that, 0_T)","(0, 1)",1
+<QNT>_of_<Shape>,that_of_0_wt_%_Dy_containing_{_[_Nd_(_Y_Dy_)_]_Co_Fe_B_}_+_Ti_C_ribbon,"(that, 0_wt_%_Dy_containing_{_[_Nd_(_Y_Dy_)_]_Co_Fe_B_}_+_Ti_C_ribbon)","(1, 0)",1
+<QNT>_of_<Class>,that_of_0_wt_%_Dy_doped_Nd_Fe_B_sintered_magnet,"(that, 0_wt_%_Dy_doped_Nd_Fe_B_sintered_magnet)","(1, 0)",1
+<QNT>_of_<Class>,that_of_as_hot_deformed_magnet,"(that, as_hot_deformed_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_as_spun_ribbon,"(that, as_spun_ribbon)","(1, 0)",1
+<QNT>_of_<Class>,that_of_Ce_Fe_B,"(that, Ce_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,that_of_directly_annealed_partially_amorphous_(_Nd_Pr_)_Fe_Co_Nb_B,"(that, directly_annealed_partially_amorphous_(_Nd_Pr_)_Fe_Co_Nb_B)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_Fe_B_/_Nd_Fe_B_film,"(that, Fe_B_/_Nd_Fe_B_film)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_Fe_B_/_Nd_Fe_B_one,"(that, Fe_B_/_Nd_Fe_B_one)","(1, 0)",4
+<QNT>_of_<Class>,that_of_ferrite_magnet,"(that, ferrite_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_hard_magnetic_phase,"(that, hard_magnetic_phase)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_HDDR_powder,"(that, HDDR_powder)","(1, 0)",1
+<QNT>_of_<Class>,that_of_hot_deformed_magnet,"(that, hot_deformed_magnet)","(1, 0)",2
+<QNT>_of_<Class>,that_of_Nd_Cu_diffusion_processed_magnet,"(that, Nd_Cu_diffusion_processed_magnet)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_Nd_Cu_diffusion_processed_sample,"(that, Nd_Cu_diffusion_processed_sample)","(1, 0)",2
+<QNT>_of_<Class>,that_of_Nd_Dy_Fe_Co_B,"(that, Nd_Dy_Fe_Co_B)","(1, 0)",2
+<QNT>_of_<Shape>,that_of_Nd_Dy_Fe_Co_B_single_layer,"(that, Nd_Dy_Fe_Co_B_single_layer)","(1, 0)",2
+<QNT>_of_<Class>,that_of_Nd_Fe_B_/_α_Fe,"(that, Nd_Fe_B_/_α_Fe)","(1, 0)",1
+<QNT>_of_<Class>,that_of_Nd_Fe_B_alloy,"(that, Nd_Fe_B_alloy)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_Nd_Fe_B_ribbon,"(that, Nd_Fe_B_ribbon)","(1, 0)",2
+<QNT>_of_<Class>,that_of_Nd_Fe_B_sintered_magnet,"(that, Nd_Fe_B_sintered_magnet)","(1, 0)",2
+<QNT>_of_<Shape>,that_of_Nd_rich_phase,"(that, Nd_rich_phase)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_Pr_Co_C_phase,"(that, Pr_Co_C_phase)","(1, 0)",1
+<QNT>_of_<Class>,that_of_Pr_Fe_B,"(that, Pr_Fe_B)","(1, 0)",1
+<QNT>_of_<Class>,that_of_Pr_Fe_B_Mn,"(that, Pr_Fe_B_Mn)","(1, 0)",1
+<QNT>_of_<Class>,that_of_RE_Fe_B_system,"(that, RE_Fe_B_system)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_single_layer_film,"(that, single_layer_film)","(1, 0)",1
+<QNT>_of_<Shape>,that_of_single_phase,"(that, single_phase)","(1, 0)",1
+<QNT>_of_<Class>,that_of_sintered_magnet,"(that, sintered_magnet)","(1, 0)",2
+<QNT>_of_<Class>,that_of_Sm_Fe,"(that, Sm_Fe)","(1, 0)",1
+<QNT>_of_<Class>,that_of_SmCo,"(that, SmCo)","(1, 0)",2
+<QNT>_of_<QNT>,theoretically_calculated_value_of_energy_product,"(theoretically_calculated_value, energy_product)","(0, 1)",1
+<Shape>_(_<Shape>_),thin_film_(_~_0_nm_),"(thin_film, ~_0_nm)","(0, 1)",1
+<Shape>_be_<Value>,this_sample_be_0_T,"(this_sample, 0_T)","(0, 1)",1
+<Element>_(_<Element>_),Ti_substitution_(_y_=_0_),"(Ti_substitution, y_=_0)","(0, 1)",1
+<QNT>_at_<Condition>,uniaxial_anisotropy_at_room_temperature,"(uniaxial_anisotropy, room_temperature)","(0, 1)",1
+<Shape>_be_<Value>,unit_cell_be_0_μ,"(unit_cell, 0_μ)","(0, 1)",1
+<Value>_for_<Element>,up_to_0_kA_/_m_for_x_=_0,"(up_to_0_kA_/_m, x_=_0)","(1, 0)",1
+<QNT>_(_<Value>_),value_(_~_0_MGOe_),"(value, ~_0_MGOe)","(0, 1)",1
+<QNT>_(_<Value>_),value_(_~_0_T_),"(value, ~_0_T)","(0, 1)",1
+<QNT>_for_<Class>,value_for_Dy_free_Nd_Fe_B_sintered_magnet,"(value, Dy_free_Nd_Fe_B_sintered_magnet)","(1, 0)",1
+<QNT>_for_<Class>,value_for_MnBi_magnet,"(value, MnBi_magnet)","(1, 0)",1
+<QNT>_for_<Class>,value_for_Nd_based_magnet,"(value, Nd_based_magnet)","(1, 0)",1
+<QNT>_for_<Class>,value_for_pure_Ce_Fe_B,"(value, pure_Ce_Fe_B)","(1, 0)",1
+<QNT>_for_<Element>,value_for_x_=_0,"(value, x_=_0)","(1, 0)",1
+<QNT>_of_<QNT>_=_<Value>,value_of_(_B_H_)_=_0_MGOe,"(value, (_B_H_), 0_MGOe)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>,value_of_(_BH_),"(value, (_BH_))","(0, 1)",2
+<QNT>_of_<QNT>,value_of_(_BH_)_max,"(value, (_BH_)_max)","(0, 1)",3
+<QNT>_of_<Value>,value_of_~_0_%_°C_-_1,"(value, ~_0_%_°C_-_1)","(0, 1)",1
+<QNT>_of_<Value>,value_of_0_kA_m_-_1,"(value, 0_kA_m_-_1)","(0, 1)",2
+<QNT>_of_<Value>,value_of_0_kJ_/_m,"(value, 0_kJ_/_m)","(0, 1)",1
+<QNT>_of_<Value>,value_of_0_kJ_/_m_3,"(value, 0_kJ_/_m_3)","(0, 1)",1
+<QNT>_of_<Value>,value_of_0_kJ_m_-_3,"(value, 0_kJ_m_-_3)","(0, 1)",1
+<QNT>_of_<QNT>_=_<Value>,value_of_4π_M_=_0_kG,"(value, 4π_M, 0_kG)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_and_<QNT>,value_of_coercivity_and_remanence,"(value, coercivity, remanence)","(1, 0), (2, 0)",2
+<QNT>_of_<QNT>_=_<Value>,value_of_H_=_0_kOe,"(value, H, 0_kOe)","(0, 1), (1, 2)",1
+<QNT>_of_<QNT>_and_<QNT>,value_of_hci_and_(_BH_)_max,"(value, hci, (_BH_)_max)","(1, 0), (2, 0)",3
+<QNT>_of_<QNT>,value_of_intrinsic_coercivity,"(value, intrinsic_coercivity)","(0, 1)",1
+<QNT>_of_<QNT>,value_of_J,"(value, J)","(0, 1)",1
+<QNT>_of_<QNT>,value_of_M,"(value, M)","(0, 1)",1
+<QNT>_of_<Class>,value_of_magnet,"(value, magnet)","(1, 0)",1
+<QNT>_of_<QNT>,value_of_magnetic_energy_product,"(value, magnetic_energy_product)","(0, 1)",1
+<QNT>_of_<QNT>_(_<QNT>_),value_of_magnetic_energy_product_(_BH_),"(value, magnetic_energy_product, BH)","(1, 0)",1
+<QNT>_of_<Shape>,value_of_melt_spun_ribbon,"(value, melt_spun_ribbon)","(1, 0)",1
+<QNT>_of_<Class>,value_of_Nd_Fe_B,"(value, Nd_Fe_B)","(1, 0)",1
+<QNT>_of_<Shape>,value_of_Nd_Fe_B_thin_film,"(value, Nd_Fe_B_thin_film)","(1, 0)",1
+<QNT>_of_<QNT>_and_<QNT>,value_of_remanence_and_(_B_H_),"(value, remanence, (_B_H_))","(1, 0), (2, 0)",2
+<QNT>_of_<QNT>_and_<QNT>,value_of_remanence_and_(_BH_),"(value, remanence, (_BH_))","(1, 0), (2, 0)",1
+<QNT>_of_<QNT>_and_<QNT>,value_of_remanence_and_coercivity,"(value, remanence, coercivity)","(1, 0), (2, 0)",1
+<Class>_shows_<QNT>_=_<Value>_and_<QNT>_=_<Value>,waste_magnet_shows_μ_M_=_0_T_and_μ_H_=_0_T,"(waste_magnet, μ_M, 0_T, μ_H, 0_T)","(0, 1), (1, 2), (0, 3), (3, 4)",1
+<Fabrication>_of_<Fabrication>,wheel_speed_of_0_m_s_-_1,"(wheel_speed, 0_m_s_-_1)","(1, 0)",2
+<Element>_of_<Element>,without_addition_of_Dy,"(without_addition, Dy)","(0, 1)",1
+<Element>_of_<Element>,without_addition_of_Nd,"(without_addition, Nd)","(0, 1)",1
+<Element>_of_<Element>,without_addition_of_rare_earth_element,"(without_addition, rare_earth_element)","(0, 1)",1
+<Class>_be_<Value>,x_=_0_alloy_be_0_kA_/_m,"(x_=_0_alloy, 0_kA_/_m)","(0, 1)",1
+<Element>_be_<Value>,x_=_0_be_0_kOe,"(x_=_0, 0_kOe)","(0, 1)",1
+<Element>_(_<Element>_),α_Fe_(_0_wt_%_0_wt_%_),"(α_Fe, 0_wt_%_0_wt_%)","(0, 1)",1
+<Class>_be_<Value>,α_Fe_/_Pr_Fe_B_film_be_0_μ,"(α_Fe_/_Pr_Fe_B_film, 0_μ)","(0, 1)",1
+<Element>_of_<Element>,α_Fe_content_of_0_wt_%,"(α_Fe_content, 0_wt_%)","(0, 1)",1
+<QNT>_=_<Value>,β_=_0_%,"(β, 0_%)","(0, 1)",1
+<QNT>_be_<Value>,β_be_0_%_/_K,"(β, 0_%_/_K)","(0, 1)",1
+<QNT>_be_<QNT>,β_be_temperature_coefficient,"(β, temperature_coefficient)","(0, 1)",1
+<QNT>_for_<Class>,β_for_magnet,"(β, magnet)","(1, 0)",1
+<QNT>_of_<Class>,β_of_magnet,"(β, magnet)","(1, 0)",1
+<QNT>_of_<Value>,Δ_H_of_~_0_kA_m_-_1,"(Δ_H, ~_0_kA_m_-_1)","(0, 1)",1
+<QNT>_of_<Value>,Δ_H_of_0_kA_m_-_1,"(Δ_H, 0_kA_m_-_1)","(0, 1)",1
+<QNT>_~_<Value>,μ_H_~_0_0_T,"(μ_H, 0_0_T)","(0, 1)",1
+<QNT>_=_<Value>,μ_H_=_0_0_T,"(μ_H, 0_0_T)","(0, 1)",2
+<QNT>_for_<Shape>,μ_H_for_bulk,"(μ_H, bulk)","(1, 0)",1
+<QNT>_=_<Value>,μ_M_=_0_±_0_T,"(μ_M, 0_±_0_T)","(0, 1)",2
+<QNT>_=_<Value>,μ_M_=_0_0_T,"(μ_M, 0_0_T)","(0, 1)",2
+<QNT>_be_<Value>,μ_M_be_0_T,"(μ_M, 0_T)","(0, 1)",1
+<QNT>_of_<Value>,μ_M_of_0_T,"(μ_M, 0_T)","(0, 1)",1
