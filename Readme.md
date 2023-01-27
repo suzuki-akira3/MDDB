@@ -20,3 +20,11 @@
 ### Material dictionary database
 - MDDB.owl
   - Material dictionary database (MDDB)
+
+## Soruce code
+- python/createdatabase.py
+  - Input files:
+    - Table_2_all_data.csv
+    - Table_5_all_data.csv
+    - Table_9_all_data.csv
+  - Output: MDDB.owl (RDF/XML syntax)
